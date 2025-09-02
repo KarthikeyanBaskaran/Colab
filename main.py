@@ -1,10 +1,10 @@
-# main.py (Modified for better input handling in script mode; use sys.stdin for job description to support non-interactive run if needed)
+# main.py (Modified for multi-line input with empty line as terminator)
 
 import os
 import yaml
 import logging
 import sys
-from google.colab import userdata  # For secrets in Colab
+# from google.colab import userdata  # Not needed since we're using env var
 from ReportLabs import load_content, build_pdf  # Assuming this is available or installed in Colab
 
 # Import modules
@@ -13,10 +13,10 @@ from semantic_module import semantic_search, model  # model is global in semanti
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Load secrets from Colab userdata
-GROQ_API_KEY = userdata.get('grok_api')
+# Load secrets from environment variable (set this in the notebook kernel before running)
+GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 if not GROQ_API_KEY:
-    logging.error("FATAL: GROQ_API_KEY not found in Colab secrets.")
+    logging.error("FATAL: GROQ_API_KEY not found in environment variables.")
     sys.exit(1)
 
 def load_config(path: str = "config.yaml") -> dict:
@@ -59,8 +59,18 @@ def main():
         logging.error(f"FATAL: A required base resume is not in parsable YAML format")
         return
 
-    print("\nPaste the Job Description below, followed by a blank line and CTRL+D (or CTRL+Z on Windows):")
-    job_description = sys.stdin.read().strip()
+    # Modified input for job description: Read lines until an empty line
+    print("Paste the Job Description below. End with an empty line (just press Enter).")
+    jd_lines = []
+    while True:
+        try:
+            line = input()
+            if line.strip() == "":
+                break
+            jd_lines.append(line)
+        except EOFError:
+            break
+    job_description = "\n".join(jd_lines).strip()
     
     if not job_description:
         logging.warning("Job description is empty. Exiting.")
