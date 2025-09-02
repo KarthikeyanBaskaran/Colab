@@ -1,12 +1,10 @@
 #importing libraries
 import os
 import yaml
-import jinja2
 import logging
 from datetime import datetime
 from dotenv import load_dotenv
 from groq import Groq
-from weasyprint import HTML
 from sentence_transformers import SentenceTransformer, util
 import numpy as np
 import shutil
