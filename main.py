@@ -6,7 +6,6 @@ import logging
 import sys
 # from google.colab import userdata  # Not needed since we're using env var
 from ReportLabs import load_content, build_pdf  # Assuming this is available or installed in Colab
-from google.colab import userdata
 
 # Import modules
 from llm_module import get_tailored_resume_content, tailored_projects, apply_hist
@@ -15,7 +14,7 @@ from semantic_module import semantic_search, model  # model is global in semanti
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Load secrets from environment variable (set this in the notebook kernel before running)
-GROQ_API_KEY = userdata.get('GROQ_API_KEY')
+GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 if not GROQ_API_KEY:
     logging.error("FATAL: GROQ_API_KEY not found in environment variables.")
     sys.exit(1)
