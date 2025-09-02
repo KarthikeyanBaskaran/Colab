@@ -1,8 +1,9 @@
-# main.py (This will be the main code in Colab, import the modules)
+# main.py (Modified for better input handling in script mode; use sys.stdin for job description to support non-interactive run if needed)
 
 import os
 import yaml
 import logging
+import sys
 from google.colab import userdata  # For secrets in Colab
 from ReportLabs import load_content, build_pdf  # Assuming this is available or installed in Colab
 
@@ -16,7 +17,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 GROQ_API_KEY = userdata.get('grok_api')
 if not GROQ_API_KEY:
     logging.error("FATAL: GROQ_API_KEY not found in Colab secrets.")
-    exit()
+    sys.exit(1)
 
 def load_config(path: str = "config.yaml") -> dict:
     """Loads the main configuration file."""
@@ -26,10 +27,10 @@ def load_config(path: str = "config.yaml") -> dict:
             return yaml.safe_load(f)
     except FileNotFoundError:
         logging.error(f"FATAL: Configuration file not found at '{path}'. Please create it.")
-        exit()
+        sys.exit(1)
     except yaml.YAMLError as e:
         logging.error(f"FATAL: Error parsing YAML configuration file: {e}")
-        exit()
+        sys.exit(1)
 
 def main():
     """Main function to run the resume generation process."""
@@ -58,17 +59,10 @@ def main():
         logging.error(f"FATAL: A required base resume is not in parsable YAML format")
         return
 
-    print("\nPaste the Job Description below. Press Ctrl+D (Linux/Mac) or Ctrl+Z (Windows) on a new line when done.")
-    jd_lines = []
-    try:
-        while True:
-            line = input()
-            jd_lines.append(line)
-    except EOFError:
-        pass
-    job_description = "\n".join(jd_lines)
+    print("\nPaste the Job Description below, followed by a blank line and CTRL+D (or CTRL+Z on Windows):")
+    job_description = sys.stdin.read().strip()
     
-    if not job_description.strip():
+    if not job_description:
         logging.warning("Job description is empty. Exiting.")
         return
     
@@ -85,8 +79,8 @@ def main():
         valeo = [j for i, j in sem_valeo]
         projects = [j for i, j in sem_projects]
         
-    except:
-        logging.error("Semantic matching failed")
+    except Exception as e:
+        logging.error(f"Semantic matching failed: {e}")
         return
 
     # --- Initial Tailored Resume Generation  ---
