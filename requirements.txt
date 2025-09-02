@@ -1,9 +1,7 @@
 python-dotenv
 groq
 PyYAML
-weasyprint
-Jinja2
-streamlit
+reportlab
 requests
 hf_xet
 sentence-transformers
