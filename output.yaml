@@ -1,0 +1,93 @@
+summary: Results-driven procurement professional with 3+ years of experience in supply
+  chain management, materials management, and logistics, leveraging expertise in competitive
+  buying practices, ISO standards, and ERP systems to drive efficiency and profitability.
+skills:
+- name: Procurement and Sourcing
+  keywords:
+  - Supply Chain Management
+  - Competitive Buying
+  - Strategic Sourcing
+- name: ERP and Software
+  keywords:
+  - ERP Systems
+  - JD Edwards
+  - Microsoft Office
+- name: Data Analysis and Reporting
+  keywords:
+  - Data Visualization
+  - Performance Metrics
+  - Procurement Analytics
+- name: Compliance and Standards
+  keywords:
+  - ISO Standards
+  - Corporate Policies
+  - Government Regulations
+- name: Communication and Leadership
+  keywords:
+  - Negotiation
+  - Problem-Solving
+  - Leadership
+- name: Time Management and Organization
+  keywords:
+  - Time Management
+  - Organizational Skills
+  - Analytical Skills
+work_experience:
+- title: Procurement Professional
+  company: Vestas Wind Technology
+  dates: Various Dates
+  achievements:
+  - Implemented process automation solutions to enhance scalability and flexibility,
+    resulting in significant cost savings and improved supplier performance.
+  - Negotiated supplier contracts to achieve cost savings and ensure compliance with
+    government policies, resulting in an average cost reduction of 10%.
+  - Developed and implemented vendor scorecards using Excel and Power BI, providing
+    actionable data visualizations and improving decision-making.
+- title: Procurement Specialist
+  company: ManpowerGroup Services
+  dates: Various Dates
+  achievements:
+  - Streamlined procurement workflows by integrating ERP tools, reducing manual effort
+    by 30% and enhancing process accuracy.
+  - Collaborated on ERP system enhancements, reducing procurement cycle times by 20%
+    and improving data accessibility for stakeholders.
+  - Analyzed supplier costs and payment credit periods, identifying potential savings
+    of 3M EUR and implementing efficient procurement strategies.
+- title: Sourcing Specialist
+  company: Valeo India
+  dates: Various Dates
+  achievements:
+  - Executed e-auctions and sourcing strategies to optimize supplier selection and
+    drive cost efficiency, achieving an average cost reduction of 12%.
+  - Built interactive dashboards to monitor procurement KPIs and supplier performance,
+    resulting in a 40% decrease in reporting time and faster decision-making.
+  - Managed RFx processes to achieve 10-15% cost reductions through competitive vendor
+    sourcing and procurement strategies.
+projects:
+- project_name: Procurement Analytics
+  description: Created a Power BI dashboard to track procurement KPIs, supplier performance,
+    and category spend, providing actionable insights for informed decision-making.
+  keywords:
+  - Power BI
+  - Procurement
+  - Analytics
+  - KPIs
+- project_name: Marine Procurement
+  description: Developed a procurement dashboard to track expenditure and supplier
+    performance in the shipbuilding industry using Power BI and Excel.
+  keywords:
+  - Procurement
+  - Power BI
+  - Excel
+  - Shipbuilding
+  - Supply Chain Management
+- project_name: Inventory Optimization
+  description: Created a predictive model to optimize inventory levels and minimize
+    stockouts using Python, Pandas, and Scikit-learn, resulting in improved efficiency
+    and reduced costs.
+  keywords:
+  - Inventory Management
+  - Predictive Modeling
+  - Python
+  - Pandas
+  - Scikit-learn
