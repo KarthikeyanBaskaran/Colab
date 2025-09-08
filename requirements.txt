@@ -5,3 +5,4 @@ reportlab
 requests
 hf_xet
 sentence-transformers
+PyPDF2
