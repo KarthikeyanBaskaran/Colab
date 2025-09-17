@@ -257,7 +257,7 @@ def build_pdf(data, output_file="resume.pdf"):
 
 if __name__ == "__main__":
     content = load_content("output.yaml")
-    build_pdf(content, "formatted_resume.pdf")
+    build_pdf(content, "Karthikeyan_Baskaran_Resume.pdf")
 
 # %%
 
