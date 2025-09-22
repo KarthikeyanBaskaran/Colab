@@ -1,10 +1,3 @@
-# %% [markdown]
-# <a href="https://colab.research.google.com/github/KarthikeyanBaskaran/pdf-build/blob/main/ReportLab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-# %%
-# pip install reportlab pyyaml
-
-# %%
 import yaml
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, ListFlowable, ListItem, HRFlowable
@@ -14,7 +7,7 @@ from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_JUSTIFY
 from io import BytesIO
 from reportlab.pdfgen import canvas
-
+from PyPDF2 import PdfReader, PdfWriter
 
 # Load YAML
 def load_content(yaml_file):
@@ -75,10 +68,8 @@ def build_pdf(data, output_file="resume.pdf"):
 ]
 
     right_col = [
-
         Paragraph('<link href="https://linkedin.com/in/karthikeyan-baskaran-data/">linkedin.com/in/karthikeyan-baskaran</link>', right_normal_style),
         Paragraph('<link href="https://github.com/KarthikeyanBaskaran"> github.com/KarthikeyanBaskaran</link>', right_normal_style)
-
     ]
 
     # Combine into table
@@ -94,21 +85,16 @@ def build_pdf(data, output_file="resume.pdf"):
         ('BOTTOMPADDING', (0, 0), (-1, -1), 0),
     ]))
 
-    # elements.append(Spacer(1, 0.3*inch))
     elements.append(header_table)
-    # elements.append(Spacer(1, 12))
 
     # ---- SUMMARY ----
     elements.append(Paragraph("Summary", section_style))
-
     elements.append(HRFlowable(width="100%", thickness=0.75, lineCap='round', color='black'))
     elements.append(Spacer(1, 4))
-
     elements.append(Paragraph(data["summary"], justified_style))
 
     # ---- SKILLS ----
     elements.append(Paragraph("Skills", section_style))
-
     elements.append(HRFlowable(width="100%", thickness=0.75, lineCap='round', color='black'))
     elements.append(Spacer(1, 4))
 
@@ -119,7 +105,6 @@ def build_pdf(data, output_file="resume.pdf"):
 
     # ---- WORK EXPERIENCE ----
     elements.append(Paragraph("Work Experience", section_style))
-
     elements.append(HRFlowable(width="100%", thickness=0.75, lineCap='round', color='black'))
     elements.append(Spacer(1, 4))
 
@@ -131,14 +116,12 @@ def build_pdf(data, output_file="resume.pdf"):
 
     for idx, job in enumerate(hardcoded_jobs):
         workleft_col = [
-              Paragraph(f"<b>{job['title']}</b>", left_normal_style)  # Adjust style as needed, assuming left_normal_style exists or replace with justified_style
+              Paragraph(f"<b>{job['title']}</b>", left_normal_style)
           ]
-
         workright_col = [
-              Paragraph(job['dates'], right_normal_style)  # Adjust style as needed
+              Paragraph(job['dates'], right_normal_style)
           ]
 
-        # Combine into table
         header_data = [[left, right] for left, right in zip(workleft_col, workright_col)]
         header_table = Table(header_data, colWidths=[3.5*inch, 3.5*inch], hAlign='CENTER')
 
@@ -152,17 +135,14 @@ def build_pdf(data, output_file="resume.pdf"):
       ]))
 
         elements.append(header_table)
-
         elements.append(Paragraph(job['company'], text_style))
         yaml_job = data['work_experience'][idx]
         bullet_points = [ListItem(Paragraph(bp, bullet_style)) for bp in yaml_job["achievements"]]
-
         elements.append(ListFlowable(bullet_points, bulletType="bullet", start="•"))
         elements.append(Spacer(1, 6))
 
     # ---- PROJECTS ----
     elements.append(Paragraph("Projects", section_style))
-
     elements.append(HRFlowable(width="100%", thickness=0.75, lineCap='round', color='black'))
     elements.append(Spacer(1, 4))
 
@@ -174,7 +154,6 @@ def build_pdf(data, output_file="resume.pdf"):
 
     # ---- EDUCATION ----
     elements.append(Paragraph("Education", section_style))
-
     elements.append(HRFlowable(width="100%", thickness=0.75, lineCap='round', color='black'))
     elements.append(Spacer(1, 4))
 
@@ -184,21 +163,15 @@ def build_pdf(data, output_file="resume.pdf"):
     ]
 
     for edu in hardcoded_education:
-
       left_col = [
         Paragraph(f'<b>{edu['degree']}</b>', left_normal_style),
         Paragraph(f'{edu['institution']}', left_normal_style)
         ]
-
       right_col = [
-
           Paragraph(f'GPA: {edu['gpa']} / 4.0 ', right_normal_style),
           Paragraph(f'{edu['dates']}', right_normal_style)
-
       ]
 
-
-      # Combine into table
       header_data = [[left, right] for left, right in zip(left_col, right_col)]
       header_table = Table(header_data, colWidths=[3.5*inch, 3.5*inch], hAlign='CENTER')
 
@@ -211,12 +184,8 @@ def build_pdf(data, output_file="resume.pdf"):
           ('BOTTOMPADDING', (0, 0), (-1, -1), 0),
       ]))
 
-      # elements.append(Spacer(1, 0.3*inch))
       elements.append(header_table)
-      # elements.append(Spacer(1, 12))
-
       elements.append(Spacer(1, 6))
-
 
     # Create dummy canvas for height calculation
     buffer = BytesIO()
@@ -226,7 +195,7 @@ def build_pdf(data, output_file="resume.pdf"):
     total_height = 0
     for elem in elements:
         if hasattr(elem, 'wrapOn'):
-            w, h = elem.wrapOn(dummy_canv, availWidth, 100000)  # Large available height
+            w, h = elem.wrapOn(dummy_canv, availWidth, 100000)
         else:
             original_canv = getattr(elem, 'canv', None)
             original__canv = getattr(elem, '_canv', None)
@@ -245,21 +214,27 @@ def build_pdf(data, output_file="resume.pdf"):
                 setattr(elem, '_canv', original__canv)
         total_height += elem.getSpaceBefore() + h + elem.getSpaceAfter()
 
-    page_height = total_height + topMargin + bottomMargin + 20  # Add a bit extra for safety
+    page_height = total_height + topMargin + bottomMargin + 20
 
-    doc = SimpleDocTemplate(output_file, pagesize=(width, page_height),
+    # Create temporary PDF
+    temp_output = "temp_resume.pdf"
+    doc = SimpleDocTemplate(temp_output, pagesize=(width, page_height),
                             leftMargin=leftMargin, rightMargin=rightMargin,
                             topMargin=topMargin, bottomMargin=bottomMargin)
 
-    # Build PDF
+    # Build initial PDF
     doc.build(elements)
+
+    # Process PDF to include only the first page
+    reader = PdfReader(temp_output)
+    writer = PdfWriter()
+    writer.add_page(reader.pages[0])
+
+    # Save final PDF
+    with open(output_file, "wb") as f:
+        writer.write(f)
     print(f"✅ Resume generated: {output_file}")
 
 if __name__ == "__main__":
     content = load_content("output.yaml")
     build_pdf(content, "Karthikeyan_Baskaran_Resume.pdf")
-
-# %%
-
-
-
