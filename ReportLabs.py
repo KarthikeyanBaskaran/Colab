@@ -158,7 +158,7 @@ def build_pdf(data, output_file="resume.pdf"):
     elements.append(Spacer(1, 4))
 
     hardcoded_education = [
-        {"degree": "Diploma in Data Analytics for Business", "institution": "St. Clair College, Canada", "gpa": "4.0 ", "dates": "Sep 2023 - Apr 2025"},
+        {"degree": " Post Grad Diploma in Data Analytics for Business", "institution": "St. Clair College, Canada", "gpa": "4.0 ", "dates": "Sep 2023 - Apr 2025"},
         {"degree": "Bachelor of Mechanical Engineering", "institution": "St. Joseph's Institute of Technology, India", "gpa": "3.7", "dates": "Jun 2014 - Jun 2018"}
     ]
 
