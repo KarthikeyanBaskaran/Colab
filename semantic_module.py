@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 model = SentenceTransformer('all-MiniLM-L6-v2')  # Model for embedding semantic search
 
-def semantic_search(jd_embedding, bullets, num=3):  
+def semantic_search(jd_embedding, bullets, num=5):  
     bullet_embeddings = model.encode(bullets, convert_to_tensor=True)
     # Compute cosine similarity scores
     similarities = util.pytorch_cos_sim(jd_embedding, bullet_embeddings)[0].cpu().numpy()
