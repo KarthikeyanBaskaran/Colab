@@ -1,4 +1,4 @@
-summary: Results-driven Data & Insights Analyst with 5+ years of experience in dashboard development, data modelling, and analytics. Proficient in Power BI, SQL, Databricks, dbt, and SSRS for designing scalable dashboards and ensuring KPI consistency. Adept in data extraction, transformation, validation, and report optimization, with a strong focus on governance, documentation, and stakeholder engagement & cross-functional collaboration in agile environments to drive strategic decision-making and continuous improvements.
+summary: Results Driven Analyst with over 5 years of expertise in crafting impactful Power BI dashboards, leveraging SQL, Databricks, dbt, and SSRS to drive data-driven decisions. Skilled in data extraction, transformation, and validation, I excel at delivering precise, scalable BI solutions aligned with business goals. My proven ability to take self driven initiative  demonstrated by transforming manual reports into efficient Power BI dashboards at Vestas enhancing team productivity and reporting accuracy. Adept at collaborating in agile settings, ensuring continuous improvement and robust governance while engaging stakeholders to deliver actionable insights, paired with a passion for automation, makes me an ideal fit to elevate your BI capabilities and drive strategic success.
 
 skills:
 - name: Business Intelligence & Reporting
@@ -47,17 +47,17 @@ work_experience:
   dates: Nov 2021 – Aug 2023
   achievements:
   - Developed and optimised Power BI executive dashboards tracking spend, category performance, SLAs and segmentation, enabling strategic decision-making.
-  - Extracted, cleaned, and transformed ERP data for reporting pipelines, improving 12% accuracy.
+  - Extracted, cleaned, and transformed ERP data for reporting pipelines, improving 12% accuracy saving aproximately €2M EUR anually.
   - Enhanced data governance by documenting process, metrics & KPIs, and reporting logic in a central repository for consistency.
   - Collaborated with cross-functional teams in Agile sprints to define reporting requirements, aligning dashboards with business objectives.
-  - Deployed supplier performance dashboards in Power BI, providing real-time visibility into KPIs, vendor metrics, and cost drivers.
-  - Retired redundant reports and optimized existing BI assets, improving efficiency and reducing maintenance overhead. 
+  - Deployed supplier performance dashboards in Power BI, providing real-time visibility into key vendor metrics, and cost drivers .
+  - Retired redundant reports and optimized existing BI assets, improving efficiency and reducing maintenance overhead by 10%. 
 
 - title: Consultant ECM Purchaser / BI Developer
   company: ManpowerGroup Services
   dates: Jan 2021 – Nov 2021
   achievements:
-  - Designed and optimized Power BI dashboards and queries, improving decision accuracy by 18% with real-time procurement analytics.
+  - Designed and optimized Power BI dashboards and queries, improving decision with real-time procurement analytics saved $35M in operational costs.
   - Performed data validation and UAT on ERP process enhancements, ensuring accuracy and consistency of reporting assets.
   - Built automation scripts (Python, SAP scripting) for report generation and validation, cutting processing time by 30%.
   - Implemented lightweight governance and report migration frameworks, supporting the transition from legacy tools.
