@@ -141,3 +141,30 @@ projects:
       - Procurement
       - Supply Chain
       - Supplier Management
+  - project_name: Supply Chain Risk Mitigation
+    description: Developed a Python-based tool to analyze supply chain data and identify alternative sourcing options, mitigating procurement risks and ensuring delivery reliability while keeping up to date with suppliers.
+    keywords: [Python, Supply Chain, Risk Mitigation, Procurement]
+
+  - project_name: RFx Automation for Electrical Systems
+    description: Automated supplier bid comparison using Python, reducing electrical quotation analysis time by 40% and enabling faster decision-making in tender evaluations.
+    keywords:
+      - Python
+      - RFx
+      - Electrical Procurement
+      - Automation
+
+  - project_name: Subcontractor Performance Management
+    description: Developed a Power BI and SharePoint-based system to track subcontractor performance metrics, safety compliance, and capacity utilization across projects nationwide.
+    keywords:
+      - Power BI
+      - Supplier Management
+      - SharePoint
+      - Subcontractor Evaluation
+
+  - project_name: Global Sourcing Strategy for Controls & Automation
+    description: Formulated data-driven sourcing strategies for electrical and control equipment, achieving 10–15% cost savings through supplier consolidation and benchmarking.
+    keywords:
+      - Electrical Procurement
+      - Global Sourcing
+      - Cost Benchmarking
+      - Supplier Strategy

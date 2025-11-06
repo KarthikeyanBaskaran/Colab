@@ -1,129 +1,125 @@
-summary: Results Driven Analyst with over 5 years of expertise in crafting impactful Power BI dashboards, leveraging SQL, Databricks, dbt, and SSRS to drive data-driven decisions. Skilled in data extraction, transformation, and validation, I excel at delivering precise, scalable BI solutions aligned with business goals. My proven ability to take self driven initiative  demonstrated by transforming manual reports into efficient Power BI dashboards at Vestas enhancing team productivity and reporting accuracy. Adept at collaborating in agile settings, ensuring continuous improvement and robust governance while engaging stakeholders to deliver actionable insights, paired with a passion for automation, makes me an ideal fit to elevate your BI capabilities and drive strategic success.
-
+summary: Results-oriented Buyer and Procurement Specialist with 5+ years of experience in global sourcing, material management, and supplier negotiations across renewable energy and manufacturing industries. Skilled in managing overseas procurement to support production schedules through effective MPS/MRP planning, cost control, and supplier performance management. Proven success in reducing procurement costs by up to 15% and improving delivery adherence to 97% by leveraging ERP systems (SAP), Power BI, and Excel-based automation. Adept at interpreting BOMs, analyzing lead times, and executing purchasing strategies that ensure on-time, cost-effective, and quality-compliant material availability. Recognized for driving continuous improvement in procurement processes, optimizing inventory, and strengthening supplier relationships to exceed organizational goals.
 skills:
-- name: Business Intelligence & Reporting
-  keywords:
-  - Power BI
-  - SQL
-  - Databricks
-  - SSRS
-  - Tableau
 
-- name: Data Analysis & Governance
-  keywords:
-  - Data Modeling
-  - Data Transformation (ETL)
-  - Data Extraction
-  - Data Validation & UAT
-  - Data Governance
-  - Report Optimization & Migration
+  - name: Procurement
+    keywords:
+      - Sourcing
+      - Negotiation
+      - Cost Control
+      - RFx
+      - Contracting
+      - Supplier Management
 
-- name: Programming & Automation
-  keywords:
-  - Python
-  - Excel VBA
-  - Power Query
-  - Workflow Automation
+  - name: Material Planning
+    keywords:
+      - MRP
+      - MPS
+      - BOM Analysis
+      - Lead Time
+      - Order Accuracy
 
-- name: Tools & Systems
-  keywords:
-  - SAP
-  - ERP Systems
-  - KPI Monitoring
-  - Dashboarding
-  - Continuous Improvement
+  - name: Supply Chain
+    keywords:
+      - Logistics
+      - Inventory
+      - Forecasting
+      - Scheduling
+      - Vendor Coordination
+      - JIT
 
-- name: Documentation & Collaboration
-  keywords:
-  - Agile
-  - Stakeholder Engagement
-  - KPI Standardization
-  - Central Repository Maintenance
-  - Cross-functional Teams
+  - name: Analytics
+    keywords:
+      - Power BI
+      - Excel VBA
+      - KPI Tracking
+      - Data Modeling
+      - Cost Analysis
+      - Dashboarding
+
+  - name: ERP Systems
+    keywords:
+      - SAP MM
+      - Data Integration
+      - Automation
+      - Master Data
+
+  - name: Performance
+    keywords:
+      - OTIF
+      - Service Level
+      - Benchmarking
+      - Efficiency
+      - Quality Metrics
+
+  - name: Continuous Improvement
+    keywords:
+      - Lean
+      - Process Optimization
+      - Risk Mitigation
+      - Supplier Development
+      - Standardization
+
 
 work_experience:
-- title: Data & Insights Analyst (Purchaser)
-  company: Vestas Wind Technology
-  dates: Nov 2021 – Aug 2023
-  achievements:
-  - Developed and optimised Power BI executive dashboards tracking spend, category performance, SLAs and segmentation, enabling strategic decision-making.
-  - Extracted, cleaned, and transformed ERP data for reporting pipelines, improving 12% accuracy saving aproximately €2M EUR anually.
-  - Enhanced data governance by documenting process, metrics & KPIs, and reporting logic in a central repository for consistency.
-  - Collaborated with cross-functional teams in Agile sprints to define reporting requirements, aligning dashboards with business objectives.
-  - Deployed supplier performance dashboards in Power BI, providing real-time visibility into key vendor metrics, and cost drivers .
-  - Retired redundant reports and optimized existing BI assets, improving efficiency and reducing maintenance overhead by 10%. 
+  - title: Purchaser in Global Procurement
+    company: Vestas Wind Systems
+    dates: Nov 2021 - Aug 2023
+    achievements:
+    - Reduced overseas material procurement costs by 15% through strategic supplier negotiations and freight optimization, ensuring on-time delivery to production lines.
+    - Enhanced MRP-driven material planning accuracy by 20% by validating SAP master data, minimizing shortages and excess inventory.
+    - Streamlined purchase order workflows by automating ERP data entry using Python and Power Query, cutting manual processing time by 30% and improving order accuracy.
+    - Improved supplier delivery adherence from 85% to 97% by implementing vendor performance scorecards and corrective action tracking in Power BI.
+    - Led sourcing initiatives for electrical and control components across global suppliers, achieving $35M in cumulative cost savings through benchmarking and competitive bidding.
+    - Designed and deployed a Power BI procurement dashboard integrated with MRP data, enabling real-time visibility into lead times, spend, and supplier reliability for planning teams.
+    - Developed procurement automation scripts in Python to validate supplier master data and RFQ responses, reducing cycle time by 40% and improving sourcing decisions.
+    - Collaborated with production planners to align material requirements with manufacturing schedules, preventing stockouts and ensuring 100% schedule adherence.
+    - Conducted detailed cost analysis for BOM components and alternate sourcing strategies, mitigating supply risk and saving 10% on high-volume electrical items.
 
-- title: Consultant ECM Purchaser / BI Developer
-  company: ManpowerGroup Services
-  dates: Jan 2021 – Nov 2021
-  achievements:
-  - Designed and optimized Power BI dashboards and queries, improving decision with real-time procurement analytics saved $35M in operational costs.
-  - Performed data validation and UAT on ERP process enhancements, ensuring accuracy and consistency of reporting assets.
-  - Built automation scripts (Python, SAP scripting) for report generation and validation, cutting processing time by 30%.
-  - Implemented lightweight governance and report migration frameworks, supporting the transition from legacy tools.
-  - Partnered with finance and engineering teams to define reporting requirements, ensuring alignment of BI deliverables with corporate goals.
+  - title: Consultant ECM Purchaser in Global Procurement
+    company: ManpowerGroup Services (for Vestas)
+    dates: Jan 2021 - Nov 2021
+    achievements:
+    - Managed overseas sourcing of electrical & mechanical components, while maintaining 100% compliance with quality and lead-time standards.
+    - Supported MPS/MRP material planning by analyzing inventory projections, resulting in a 15% improvement in production readiness and reduced line stoppages.
+    - Improved procurement data accuracy in SAP by 25% through automation and standardization of purchase requisition workflows.
+    - Developed cloud-based procurement tracking tools to centralize supplier lead times and shipping status, improving visibility and reducing delays by 20%.
+    - Negotiated with global suppliers to extend payment terms and reduce unit costs, achieving savings of €3M across multiple sourcing categories.
+    - Partnered with production and logistics teams to coordinate just-in-time (JIT) deliveries, lowering excess stock levels by 12%.
+    - Implemented Lean procurement practices that shortened purchasing cycle times by 20% and enhanced cross-functional coordination.
+    - Built Power BI dashboards to monitor procurement KPIs (on-time delivery, cost variance, and supplier quality), improving data-driven decision-making by 18%.
 
-- title: Procurement Engineer (Intern, Analytics Support)
-  company: Valeo India
-  dates: Jan 2019 – Jan 2021
-  achievements:
-  - Built dashboards and trend analysis in Google Sheets and Excel for supplier performance, reducing manual effort by 40%.
-  - Conducted data cleaning and preprocessing using Excel, improving accuracy in cost analysis and sourcing decisions.
-  - Standardized supplier cost models and created reporting documentation, enhancing governance and consistency across reports.
-  - Applied procurement analytics to optimize sourcing strategy and reduce supplier cost variance by 15%.
+  - title: Procurement Engineer (Intern) - Global Sourcing
+    company: Valeo India
+    dates: Jan 2019 - Jan 2021
+    achievements:
+    - Executed MRP-based purchasing strategies across mechanical and plastic categories, achieving 10–15% cost savings through supplier localization and competitive bidding.
+    - Managed supplier onboarding, audits, and double sourcing initiatives to strengthen global supply base and improve delivery reliability by 20%.
+    - Conducted e-auctions and cost benchmarking for overseas suppliers, realizing 12% cost reductions while ensuring material availability for production.
+    - Performed zero-based costing using Excel macros and pivot analytics to identify cost anomalies, contributing to 15% reduction in total procurement spend.
+    - Improved procurement forecast accuracy by integrating BOM and consumption data into Excel-based models, aligning purchase orders with production schedules.
+    - Built supplier performance dashboards to track OTIF (On-Time In-Full) metrics, reducing reporting time by 40% and supporting continuous improvement initiatives.
+    - Introduced RXIL TReDS for supplier financing, improving payment efficiency and supplier cash flow resilience.
+    - Analyzed supply chain risks by mapping overseas lead times and alternate sourcing options, mitigating potential delays and ensuring 95% supply continuity.
 
 projects:
-- project_name: Procurement Analytics Dashboard
-  description: Developed a Power BI dashboard to track procurement KPIs, SLAs, and category spend. Automated ETL pipelines 
-    using Power Query to clean and prepare data, providing stakeholders with accurate, real-time insights.
-  keywords:
-  - Power BI
-  - Procurement Analytics
-  - Data Cleaning
-  - ETL
-  - KPIs
+  - project_name: Procurement Analytics Dashboard
+    description: Designed a Power BI dashboard to integrate MRP data with supplier KPIs, providing real-time insights into spend, delivery performance, and inventory levels to support production planning.
+    keywords: [Power BI, MRP, Procurement, Supply Chain]
 
-- project_name: Customer Churn Analysis
-  description: Processed and cleaned customer data using Python and SQL, applied ML models to predict churn probability, and built 
-    dashboards to support retention strategies. Improved accuracy through feature engineering and correlation analysis.
-  keywords:
-  - Python
-  - SQL
-  - Data Cleaning
-  - Predictive Modeling
-  - Customer Analytics
+  - project_name: Global Sourcing Strategy for Electrical Systems
+    description: Built data-driven global sourcing framework for electrical and control components, achieving 15% cost savings and improving on-time delivery by 12%.
+    keywords: [Global Sourcing, Electrical Procurement, Cost Optimization, Supplier Strategy]
 
-- project_name: Data Quality Validation Framework
-  description: Build a lightweight automated data quality and validation pipeline in Databricks using PySpark and SQL to check for missing values and duplicates. Log simplified validation reports in dbt for basic documentation.
-  keywords:
-  - Databricks
-  - dbt
-  - Data Quality
-  - SQL
-  - Data Validation
+  - project_name: RFx Automation for Overseas Procurement
+    description: Developed Python scripts to automate overseas supplier bid evaluations, cutting cycle times by 40% and standardizing quotation analysis for global sourcing.
+    keywords: [Python, RFx, Procurement, Automation]
 
-- project_name: Reporting Migration and Governance
-  description: Migrated a small set of SSRS sales reports to Power BI Desktop, ensuring consistency through basic data model validation and simple metadata documentation in a local text file. Implemented lightweight governance rules using a checklist and centralized data definitions.
-  keywords:
-  - SSRS
-  - Power BI
-  - Data Governance
-  - Report Migration
-  - Data Modelling
+  - project_name: Supplier Performance Dashboard
+    description: Built an interactive Tableau dashboard consolidating MPS/MRP data with supplier scorecards, enhancing visibility into cost, lead time, and delivery performance.
+    keywords: [Tableau, MRP, Procurement, Data Visualization]
 
-- project_name: Product Analytics Model in Databricks
-  description:  Designed a star-schema model in Databricks using PySpark/SQL on a small dataset. Documented transformations in dbt using local CLI and Cloud runs. Created validation dashboards in Power BI Desktop for UAT. Ensured data integrity with basic automated tests in Databricks and versioned logic in GitHub
-  keywords:
-  - Databricks
-  - dbt
-  - Data Modelling
-  - Documentation
-  - UAT Validation
+  - project_name: E-Auction Platform
+    description: Implemented an e-auction platform for global suppliers, reducing component sourcing costs by 8–12% and accelerating competitive sourcing cycles.
+    keywords: [E-Auction, Procurement, Global Sourcing, Cost Reduction]
 
-education:
-- degree: Post Graduate Diploma, Data Analytics for Business (GPA 4.0/4.0)
-  institution: St. Clair College, Canada
-  dates: Sep 2023 – Apr 2025
-- degree: Bachelor of Mechanical Engineering (GPA 3.7/4.0)
-  institution: St. Joseph's Institute of Technology, India
-  dates: Jun 2014 – Jun 2018
+
