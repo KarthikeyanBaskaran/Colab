@@ -6,3 +6,4 @@ requests
 hf_xet
 sentence-transformers
 PyPDF2
+os
