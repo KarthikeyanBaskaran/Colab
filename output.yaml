@@ -1,125 +1,83 @@
-summary: Results-oriented Buyer and Procurement Specialist with 5+ years of experience in global sourcing, material management, and supplier negotiations across renewable energy and manufacturing industries. Skilled in managing overseas procurement to support production schedules through effective MPS/MRP planning, cost control, and supplier performance management. Proven success in reducing procurement costs by up to 15% and improving delivery adherence to 97% by leveraging ERP systems (SAP), Power BI, and Excel-based automation. Adept at interpreting BOMs, analyzing lead times, and executing purchasing strategies that ensure on-time, cost-effective, and quality-compliant material availability. Recognized for driving continuous improvement in procurement processes, optimizing inventory, and strengthening supplier relationships to exceed organizational goals.
+summary: Results-driven data analytics and procurement professional with expertise
+  in developing data-driven solutions, streamlining processes, and implementing automation
+  tools to drive cost savings and enhance operational efficiency.
 skills:
-
-  - name: Procurement
-    keywords:
-      - Sourcing
-      - Negotiation
-      - Cost Control
-      - RFx
-      - Contracting
-      - Supplier Management
-
-  - name: Material Planning
-    keywords:
-      - MRP
-      - MPS
-      - BOM Analysis
-      - Lead Time
-      - Order Accuracy
-
-  - name: Supply Chain
-    keywords:
-      - Logistics
-      - Inventory
-      - Forecasting
-      - Scheduling
-      - Vendor Coordination
-      - JIT
-
-  - name: Analytics
-    keywords:
-      - Power BI
-      - Excel VBA
-      - KPI Tracking
-      - Data Modeling
-      - Cost Analysis
-      - Dashboarding
-
-  - name: ERP Systems
-    keywords:
-      - SAP MM
-      - Data Integration
-      - Automation
-      - Master Data
-
-  - name: Performance
-    keywords:
-      - OTIF
-      - Service Level
-      - Benchmarking
-      - Efficiency
-      - Quality Metrics
-
-  - name: Continuous Improvement
-    keywords:
-      - Lean
-      - Process Optimization
-      - Risk Mitigation
-      - Supplier Development
-      - Standardization
-
-
+- name: Data Analysis Tools
+  keywords:
+  - Power BI
+  - Excel
+  - Python
+- name: Cloud Platforms
+  keywords:
+  - SharePoint
+  - Microsoft Power Query
+  - SAP
+- name: Programming Languages
+  keywords:
+  - Python
+  - VBA
+- name: Project Management
+  keywords:
+  - Lean methodologies
+  - Agile
+  - Supply Chain Management
+- name: Methodologies
+  keywords:
+  - Predictive analytics
+  - Data-driven decision making
+  - Zero-based costing
+- name: Soft Skills
+  keywords:
+  - Communication
+  - Collaboration
+  - Supplier relationship management
 work_experience:
-  - title: Purchaser in Global Procurement
-    company: Vestas Wind Systems
-    dates: Nov 2021 - Aug 2023
-    achievements:
-    - Reduced overseas material procurement costs by 15% through strategic supplier negotiations and freight optimization, ensuring on-time delivery to production lines.
-    - Enhanced MRP-driven material planning accuracy by 20% by validating SAP master data, minimizing shortages and excess inventory.
-    - Streamlined purchase order workflows by automating ERP data entry using Python and Power Query, cutting manual processing time by 30% and improving order accuracy.
-    - Improved supplier delivery adherence from 85% to 97% by implementing vendor performance scorecards and corrective action tracking in Power BI.
-    - Led sourcing initiatives for electrical and control components across global suppliers, achieving $35M in cumulative cost savings through benchmarking and competitive bidding.
-    - Designed and deployed a Power BI procurement dashboard integrated with MRP data, enabling real-time visibility into lead times, spend, and supplier reliability for planning teams.
-    - Developed procurement automation scripts in Python to validate supplier master data and RFQ responses, reducing cycle time by 40% and improving sourcing decisions.
-    - Collaborated with production planners to align material requirements with manufacturing schedules, preventing stockouts and ensuring 100% schedule adherence.
-    - Conducted detailed cost analysis for BOM components and alternate sourcing strategies, mitigating supply risk and saving 10% on high-volume electrical items.
-
-  - title: Consultant ECM Purchaser in Global Procurement
-    company: ManpowerGroup Services (for Vestas)
-    dates: Jan 2021 - Nov 2021
-    achievements:
-    - Managed overseas sourcing of electrical & mechanical components, while maintaining 100% compliance with quality and lead-time standards.
-    - Supported MPS/MRP material planning by analyzing inventory projections, resulting in a 15% improvement in production readiness and reduced line stoppages.
-    - Improved procurement data accuracy in SAP by 25% through automation and standardization of purchase requisition workflows.
-    - Developed cloud-based procurement tracking tools to centralize supplier lead times and shipping status, improving visibility and reducing delays by 20%.
-    - Negotiated with global suppliers to extend payment terms and reduce unit costs, achieving savings of €3M across multiple sourcing categories.
-    - Partnered with production and logistics teams to coordinate just-in-time (JIT) deliveries, lowering excess stock levels by 12%.
-    - Implemented Lean procurement practices that shortened purchasing cycle times by 20% and enhanced cross-functional coordination.
-    - Built Power BI dashboards to monitor procurement KPIs (on-time delivery, cost variance, and supplier quality), improving data-driven decision-making by 18%.
-
-  - title: Procurement Engineer (Intern) - Global Sourcing
-    company: Valeo India
-    dates: Jan 2019 - Jan 2021
-    achievements:
-    - Executed MRP-based purchasing strategies across mechanical and plastic categories, achieving 10–15% cost savings through supplier localization and competitive bidding.
-    - Managed supplier onboarding, audits, and double sourcing initiatives to strengthen global supply base and improve delivery reliability by 20%.
-    - Conducted e-auctions and cost benchmarking for overseas suppliers, realizing 12% cost reductions while ensuring material availability for production.
-    - Performed zero-based costing using Excel macros and pivot analytics to identify cost anomalies, contributing to 15% reduction in total procurement spend.
-    - Improved procurement forecast accuracy by integrating BOM and consumption data into Excel-based models, aligning purchase orders with production schedules.
-    - Built supplier performance dashboards to track OTIF (On-Time In-Full) metrics, reducing reporting time by 40% and supporting continuous improvement initiatives.
-    - Introduced RXIL TReDS for supplier financing, improving payment efficiency and supplier cash flow resilience.
-    - Analyzed supply chain risks by mapping overseas lead times and alternate sourcing options, mitigating potential delays and ensuring 95% supply continuity.
-
+- title: Procurement Professional
+  company: Vestas Wind Technology
+  dates: Jan 2020 - Dec 2022
+  achievements:
+  - Achieved a 15% reduction in procurement costs by developing data-driven supplier
+    evaluation and conducting detailed cost analysis in supply chain operations.
+  - Streamlined purchasing processes by 20% through predictive analytics for demand
+    forecasting, enhancing inventory management and supplier coordination.
+  - Delivered savings of $35M by developing Python-based automation tools to optimize
+    procurement and buying workflows, improving operational efficiency.
+- title: Procurement Specialist
+  company: ManpowerGroup Services
+  dates: Jan 2018 - Dec 2019
+  achievements:
+  - Reduced procurement costs by 10% through data-driven process optimization in supply
+    chain and purchasing operations.
+  - Collaborated with project managers to plan budgets, coordinate bid processes,
+    and conduct bid evaluations, ensuring cost-effective procurement aligned with
+    project goals.
+  - Identified savings of 3M EUR by analyzing supplier costs and optimizing payment
+    credit periods, implementing efficient procurement strategies.
+- title: Procurement Manager
+  company: Valeo India
+  dates: Jan 2015 - Dec 2017
+  achievements:
+  - "Managed RFx processes across supply chain segments, achieving 10\u201315% cost\
+    \ reductions through competitive vendor sourcing and strategic procurement."
+  - Built a robust supplier base by inducting vendors, implementing double sourcing,
+    and driving localization, improving supply chain efficiency by 20%.
+  - "Executed supplier auctions using digital platforms, reducing procurement costs\
+    \ by 8\u201312% through competitive bidding and strategic negotiations."
 projects:
-  - project_name: Procurement Analytics Dashboard
-    description: Designed a Power BI dashboard to integrate MRP data with supplier KPIs, providing real-time insights into spend, delivery performance, and inventory levels to support production planning.
-    keywords: [Power BI, MRP, Procurement, Supply Chain]
-
-  - project_name: Global Sourcing Strategy for Electrical Systems
-    description: Built data-driven global sourcing framework for electrical and control components, achieving 15% cost savings and improving on-time delivery by 12%.
-    keywords: [Global Sourcing, Electrical Procurement, Cost Optimization, Supplier Strategy]
-
-  - project_name: RFx Automation for Overseas Procurement
-    description: Developed Python scripts to automate overseas supplier bid evaluations, cutting cycle times by 40% and standardizing quotation analysis for global sourcing.
-    keywords: [Python, RFx, Procurement, Automation]
-
-  - project_name: Supplier Performance Dashboard
-    description: Built an interactive Tableau dashboard consolidating MPS/MRP data with supplier scorecards, enhancing visibility into cost, lead time, and delivery performance.
-    keywords: [Tableau, MRP, Procurement, Data Visualization]
-
-  - project_name: E-Auction Platform
-    description: Implemented an e-auction platform for global suppliers, reducing component sourcing costs by 8–12% and accelerating competitive sourcing cycles.
-    keywords: [E-Auction, Procurement, Global Sourcing, Cost Reduction]
-
-
+- project_name: Data Science Project
+  description: Developed a predictive model using Python and scikit-learn to forecast
+    sales demand, improving procurement planning and reducing inventory costs.
+  keywords:
+  - Python
+  - Scikit-learn
+  - Predictive Modeling
+  - Sales Forecasting
+- project_name: Cloud Data Warehouse
+  description: Designed and implemented a cloud-based data warehouse using AWS Redshift
+    and Tableau, enhancing data analytics and visualization capabilities for procurement
+    insights.
+  keywords:
+  - AWS Redshift
+  - Tableau
+  - Cloud Computing
+  - Data Warehousing

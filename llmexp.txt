@@ -1,0 +1,38 @@
+summary: Results-driven data analytics and procurement professional with expertise in developing data-driven solutions, streamlining processes, and implementing automation tools to drive cost savings and enhance operational efficiency.
+
+skills:
+- name: Data Analysis Tools
+  keywords: [Power BI, Excel, Python]
+- name: Cloud Platforms
+  keywords: [SharePoint, Microsoft Power Query, SAP]
+- name: Programming Languages
+  keywords: [Python, VBA]
+- name: Project Management
+  keywords: [Lean methodologies, Agile, Supply Chain Management]
+- name: Methodologies
+  keywords: [Predictive analytics, Data-driven decision making, Zero-based costing]
+- name: Soft Skills
+  keywords: [Communication, Collaboration, Supplier relationship management]
+
+work_experience:
+- title: Procurement Professional
+  company: Vestas Wind Technology
+  dates: Jan 2020 - Dec 2022
+  achievements:
+  - Achieved a 15% reduction in procurement costs by developing data-driven supplier evaluation and conducting detailed cost analysis in supply chain operations.
+  - Streamlined purchasing processes by 20% through predictive analytics for demand forecasting, enhancing inventory management and supplier coordination.
+  - Delivered savings of $35M by developing Python-based automation tools to optimize procurement and buying workflows, improving operational efficiency.
+- title: Procurement Specialist
+  company: ManpowerGroup Services
+  dates: Jan 2018 - Dec 2019
+  achievements:
+  - Reduced procurement costs by 10% through data-driven process optimization in supply chain and purchasing operations.
+  - Collaborated with project managers to plan budgets, coordinate bid processes, and conduct bid evaluations, ensuring cost-effective procurement aligned with project goals.
+  - Identified savings of 3M EUR by analyzing supplier costs and optimizing payment credit periods, implementing efficient procurement strategies.
+- title: Procurement Manager
+  company: Valeo India
+  dates: Jan 2015 - Dec 2017
+  achievements:
+  - Managed RFx processes across supply chain segments, achieving 10–15% cost reductions through competitive vendor sourcing and strategic procurement.
+  - Built a robust supplier base by inducting vendors, implementing double sourcing, and driving localization, improving supply chain efficiency by 20%.
+  - Executed supplier auctions using digital platforms, reducing procurement costs by 8–12% through competitive bidding and strategic negotiations.
