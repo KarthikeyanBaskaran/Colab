@@ -1,5 +1,6 @@
 # main.py
 
+#importing necessary libraries
 import os
 import yaml
 import logging
@@ -10,7 +11,7 @@ from ReportLabs import load_content, build_pdf  # Assuming this is available or 
 
 
 # Import modules
-from llm_module import get_tailored_resume_content, tailored_projects, apply_hist
+from llm_modulecopy import get_tailored_resume_content, tailored_projects, apply_hist
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -54,15 +55,15 @@ def main():
         logging.error(f"FATAL: A required base resume file was not found: {e.filename}")
         return
 
-    # Parse the base file
-    try:
-        vestas_bullets = resume_data['Professional Experience']['Vestas Wind Technology']
-        manpower_bullets = resume_data['Professional Experience']['ManpowerGroup Services']
-        valeo_bullets = resume_data['Professional Experience']['Valeo India']
-        projects_bullets = resume_data['projects']
-    except:
-        logging.error(f"FATAL: A required base resume is not in parsable YAML format")
-        return
+    # # Parse the base file
+    # try:
+    #     vestas_bullets = resume_data['Professional Experience']['Vestas Wind Technology']
+    #     manpower_bullets = resume_data['Professional Experience']['ManpowerGroup Services']
+    #     valeo_bullets = resume_data['Professional Experience']['Valeo India']
+    #     projects_bullets = resume_data['projects']
+    # except:
+    #     logging.error(f"FATAL: A required base resume is not in parsable YAML format")
+    #     return
 
     # Modified input for job description: Read lines until an empty line
     print("Paste the Job Description below. End with an empty line (just press Enter).")
@@ -81,7 +82,7 @@ def main():
         return
 
     # --- Initial Tailored Resume Generation  ---
-    tailored_yaml = get_tailored_resume_content(vestas_bullets, manpower_bullets, valeo_bullets, job_description, GROQ_API_KEY)
+    tailored_yaml = get_tailored_resume_content(resume_data, job_description, GROQ_API_KEY)
     if not tailored_yaml:
         logging.error("Could not get initial content from LLM. Aborting PDF generation.")
         return
@@ -94,8 +95,8 @@ def main():
     except yaml.YAMLError as e:
         logging.error(f"The llm output is not in suitable YAML format {e}")
 
-    # adding projects in the yaml output
-    llm_tailored_projects = tailored_projects(resume_data, job_description, projects_bullets, GROQ_API_KEY)
+    # # adding projects in the yaml output
+    # llm_tailored_projects = tailored_projects(resume_data, job_description, GROQ_API_KEY)
 
     # --- Initial Tailored Projects Generation  ---
     try:
