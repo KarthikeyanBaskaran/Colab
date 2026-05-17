@@ -12,6 +12,7 @@ Professional Experience:
     - "Boosted vendor accountability and lead-time reliability through a high-engagement relationship model, resulting in a 30% improvement in on-time deliveries."
     - "Led cross-functional 'Continuous Improvement' sessions, collaborating with stakeholders to bridge gaps between departments and implement procurement tools that scaled with the business."
     - "Architected a Star Schema data model by structuring procurement data into Fact and Dimension tables, enhancing Power BI report performance and enabling intuitive self-service analytics."
+    - Managed the end-to-end Procure-to-Pay (P2P) lifecycle, streamlining PO creation and shipment tracking to achieve a 98% on-time delivery rate and ensuring seamless invoice reconciliation.
   Vestas Wind Technology:
     - Achieved a 15% reduction in procurement costs by developing a data-driven supplier evaluation and conducting detailed cost analysis in supply chain operations.
     - Streamlined purchasing processes by 20% through predictive analytics for demand forecasting, enhancing inventory management and supplier coordination.
@@ -181,7 +182,6 @@ projects:
       - Global Sourcing
       - Cost Benchmarking
       - Supplier Strategy
-  projects:
   - project_name: Home Lab Infrastructure & Server Management
     description: Architected a multi-service home server environment using Linux Mint and Cockpit to master server administration, implementing Immich for automated media backup and Joplin for centralized knowledge management. Established remote monitoring protocols to ensure 24/7 uptime and efficient resource allocation.
     keywords:

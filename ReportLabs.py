@@ -109,6 +109,7 @@ def build_pdf(data, output_file="resume.pdf"):
     elements.append(Spacer(1, 4))
 
     hardcoded_jobs = [
+        {"title": "Procurement Buyer", "company": "Decibel Cannabis Company", "dates": "Dec 2025 - Present"},
         {"title": "Purchaser in Global Procurement", "company": "Vestas Wind Systems", "dates": "Nov 2021 - Aug 2023"},
         {"title": "Consultant ECM Purchaser in Global Procurement,Vestas", "company": "ManpowerGroup Services", "dates": "Jan 2021 - Nov 2021"},
         {"title": "Procurement Engineer(Intern) - Global Sourcing", "company": "Valeo India", "dates": "Jan 2019 - Jan 2021"}
