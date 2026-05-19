@@ -1,17 +1,17 @@
 Professional Experience:
 
   Decibel Cannabis Company:
-    - "Built custom SQL-based tracking systems that automated supplier performance monitoring, cutting manual reporting time by 50% and providing early warnings for dependency risks."
-    - "Designed interactive Power BI dashboards that turned messy procurement data into clear, actionable insights, helping the team speed up sourcing workflows."
-    - "Maintained 99%+ data accuracy within Sage ERP, ensuring the leadership team had a 'single source of truth' for end-to-end supply chain visibility."
-    - "Streamlined data mining processes by engineering complex queries to pull from large datasets, transforming raw numbers into monthly performance reports."
-    - "Reduced stockouts (98% production uptime) by re-engineering purchase planning for global suppliers with long lead times."
-    - "Maintained lean inventory levels by synchronizing the full PO lifecycle with real-time manufacturing demands and monthly forecasts, reducing excess stock by 20%."
-    - "Spearheaded strategic sourcing initiatives that slashed procurement costs while diversifying the supplier base to lower organizational risk."
-    - "Balanced inventory vs. finance goals to satisfy production needs while reducing capital expenditure and holding costs."
-    - "Boosted vendor accountability and lead-time reliability through a high-engagement relationship model, resulting in a 30% improvement in on-time deliveries."
-    - "Led cross-functional 'Continuous Improvement' sessions, collaborating with stakeholders to bridge gaps between departments and implement procurement tools that scaled with the business."
-    - "Architected a Star Schema data model by structuring procurement data into Fact and Dimension tables, enhancing Power BI report performance and enabling intuitive self-service analytics."
+    - Built custom SQL-based tracking systems that automated supplier performance monitoring, cutting manual reporting time by 50% and providing early warnings for dependency risks.
+    - Designed interactive Power BI dashboards that turned messy procurement data into clear, actionable insights, helping the team speed up sourcing workflows.
+    - Maintained 99%+ data accuracy within Sage ERP, ensuring the leadership team had a 'single source of truth' for end-to-end supply chain visibility.
+    - Streamlined data mining processes by engineering complex queries to pull from large datasets, transforming raw numbers into monthly performance reports.
+    - Reduced stockouts (98% production uptime) by re-engineering purchase planning for global suppliers with long lead times.
+    - Maintained lean inventory levels by synchronizing the full PO lifecycle with real-time manufacturing demands and monthly forecasts, reducing excess stock by 20%.
+    - Spearheaded strategic sourcing initiatives that slashed procurement costs while diversifying the supplier base to lower organizational risk.
+    - Balanced inventory vs. finance goals to satisfy production needs while reducing capital expenditure and holding costs.
+    - Boosted vendor accountability and lead-time reliability through a high-engagement relationship model, resulting in a 30% improvement in on-time deliveries.
+    - Led cross-functional 'Continuous Improvement' sessions, collaborating with stakeholders to bridge gaps between departments and implement procurement tools that scaled with the business.
+    - Architected a Star Schema data model by structuring procurement data into Fact and Dimension tables, enhancing Power BI report performance and enabling intuitive self-service analytics.
     - Managed the end-to-end Procure-to-Pay (P2P) lifecycle, streamlining PO creation and shipment tracking to achieve a 98% on-time delivery rate and ensuring seamless invoice reconciliation.
   Vestas Wind Technology:
     - Achieved a 15% reduction in procurement costs by developing a data-driven supplier evaluation and conducting detailed cost analysis in supply chain operations.
