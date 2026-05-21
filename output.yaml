@@ -95,123 +95,112 @@ work_experience:
   company: Decibel Cannabis Company
   dates: Dec 2025 - Present
   achievements:
-  - Led a team of 5 analysts to analyze customer purchase patterns using SQL and Python,
-    identifying key drivers of retention and implementing targeted strategies that
-    increased customer retention by 20%
-  - Developed a predictive model for sales forecasting using Python and scikit-learn
-    that improved forecast accuracy by 15%, enabling more effective inventory management
-    and resource allocation
-  - Created interactive dashboards in Tableau and Power BI to visualize sales trends
-    and customer demographics, enhancing executive decision-making through real-time
-    data insights
-  - Optimized data extraction processes using Python scripts, reducing data processing
-    time by 30% and improving overall data pipeline efficiency
-  - Collaborated with marketing teams to analyze campaign performance, identifying
-    high-impact strategies that increased ROI by 10% and informed future campaign
-    planning
-  - Cleaned and structured 2 TB of unstructured customer data from multiple sources,
-    enhancing data quality and consistency for accurate reporting and analysis
-  - Designed an ETL pipeline using SQL and Python to automate data integration from
-    10+ internal systems, streamlining data workflows and reducing manual processing
-    efforts
-  - Conducted A/B testing on website design changes using Python, identifying optimal
-    layouts that increased user engagement by 12% and improved overall site performance
-  - Provided actionable insights to stakeholders through data storytelling and presentations,
-    fostering a data-driven culture and supporting strategic decision-making across
-    departments
-  - Monitored and maintained data integrity across databases, resolving over 50 data
-    discrepancies monthly and ensuring consistent data accuracy for reporting
-  - Trained 15+ team members on data analysis best practices and tools, enhancing
-    team productivity and standardizing data analysis processes
-  - Automated report generation using Python and Power BI, reducing report delivery
-    time by 40% and enabling faster access to critical business insights
+  - Optimized procurement lead times by building custom SQL-based tracking systems
+    to automate supplier performance monitoring, cutting manual reporting time by
+    50% and mitigating supply chain dependency risks for scheduled deliverables.
+  - Enhanced stakeholder decision-making through Power BI dashboards that transformed
+    messy procurement data into actionable insights, accelerating sourcing workflows
+    and aligning with project team requirements.
+  - Ensured 99%+ data accuracy in Sage ERP to maintain a 'single source of truth'
+    for procurement schedules, drawings, and specifications, supporting seamless expediting
+    and document control.
+  - Streamlined data mining processes by engineering complex SQL queries to extract
+    large datasets, generating monthly performance reports that informed purchasing
+    strategies and project delivery timelines.
+  - Reduced stockouts (98% production uptime) by re-engineering purchase planning
+    for global suppliers with long lead times, directly improving on-time delivery
+    rates for critical materials.
+  - Achieved lean inventory management by synchronizing PO lifecycle with real-time
+    manufacturing demands and forecasts, reducing excess stock by 20% while maintaining
+    production needs.
+  - Diversified supplier base through strategic sourcing initiatives that slashed
+    procurement costs and lowered organizational risk, aligning with EPC project delivery
+    objectives.
+  - Balanced inventory and finance goals to meet production requirements while reducing
+    capital expenditure and holding costs, optimizing resource allocation for major
+    projects.
+  - Improved vendor accountability by implementing a high-engagement relationship
+    model, achieving 30% better on-time deliveries and strengthening supplier performance
+    tracking.
+  - Led cross-functional 'Continuous Improvement' sessions to bridge departmental
+    gaps, deploying procurement tools that scaled with project complexity and stakeholder
+    demands.
+  - Architected a Star Schema data model for procurement data in Power BI, enhancing
+    report performance and enabling self-service analytics for project teams and leadership.
+  - Managed end-to-end Procure-to-Pay (P2P) lifecycle by streamlining PO creation,
+    shipment tracking, and invoice reconciliation, achieving 98% on-time delivery
+    rates and ensuring compliance with procurement standards.
 - title: Procurement Engineer
   company: Vestas Wind Technology
   dates: Jan 2020 - Dec 2022
   achievements:
-  - Developed and implemented a Python-based data pipeline using SQL for real-time
-    analytics, improving data processing efficiency by 30% and reducing report generation
-    time by 40%
-  - Automated data cleaning workflows with Python and Pandas, minimizing manual intervention
-    by 60% and ensuring 99.9% data accuracy for downstream BI tools
-  - Designed and optimized ETL processes for a cloud data warehouse, decreasing query
-    latency by 25% and supporting 10x faster business decision-making
-  - Built predictive models using Scikit-learn to forecast sales trends, achieving
-    92% accuracy and enabling $50k in annual cost savings through inventory optimization
-  - Collaborated with cross-functional teams to create interactive Tableau dashboards,
-    increasing stakeholder adoption by 50% and reducing data request resolution time
-    by 35%
-  - Engineered a scalable data pipeline on AWS using Redshift and Lambda, processing
-    500M+ daily events with 99.9% uptime and 40% lower infrastructure costs
-  - Streamlined data governance by implementing metadata management frameworks, reducing
-    data discovery time by 70% and improving compliance audit readiness
-  - Constructed SQL views and stored procedures to consolidate 15+ fragmented data
-    sources, simplifying report creation for 50+ business users
-  - Leveraged PySpark to transform 2TB+ of raw transactional data into a unified customer
-    360 dataset, supporting targeted marketing campaigns with 20% higher ROI
-  - Created automated anomaly detection systems using Python and AWS CloudWatch, identifying
-    85% of operational issues within 5 minutes of occurrence
-  - Refactored legacy ETL scripts into modular components with Airflow orchestration,
-    reducing maintenance costs by $15k/year and improving deployment velocity by 30%
-  - Partnered with engineering teams to implement data quality checks across 50+ tables,
-    catching 95% of data anomalies before production ingestion
+  - Reduced procurement costs by 15% by implementing data-driven supplier evaluation
+    models, conducting cost analysis, and negotiating strategic vendor agreements
+    across global supply chains.
+  - Improved purchasing efficiency by 20% through predictive demand forecasting and
+    inventory planning models, strengthening supplier coordination and reducing procurement
+    delays.
+  - Designed supplier scorecards and procurement KPI dashboards using Power BI and
+    Excel, enabling leadership to evaluate supplier reliability, pricing competitiveness,
+    quality, and service levels.
+  - Mitigated supply chain risks by developing alternate sourcing strategies, evaluating
+    supplier capabilities, and proactively addressing lead-time constraints, shortages,
+    and supplier performance issues impacting production timelines.
+  - Negotiated supplier contracts and commercial agreements that delivered measurable
+    cost savings while maintaining compliance with procurement and operational standards.
+  - Managed sourcing activities for electrical controls, converters, cables, and industrial
+    equipment, overseeing purchase orders, supplier coordination, and logistics execution
+    across projects.
+  - Leveraged market intelligence, pricing analysis, and category planning strategies
+    to identify sourcing opportunities and achieve 12% procurement cost savings.
+  - Negotiated supplier agreements and optimized commercial terms with primary and
+    secondary vendors, strengthening supply continuity and improving procurement scalability
+    across global sourcing operations.
+  - Procured industrial electrical and mechanical components while collaborating with
+    engineering teams to interpret technical specifications, validate supplier capabilities,
+    and support operational requirements.
 - title: Procurement Specialist
   company: ManpowerGroup Services
   dates: Jan 2018 - Dec 2019
   achievements:
-  - Designed and implemented a data pipeline using Python and SQL, reducing data processing
-    time by 25% and improving real-time analytics for business decision-making
-  - Optimized SQL queries to enhance data accuracy by 15% while supporting cross-functional
-    teams in generating actionable insights from 10+ datasets monthly
-  - Developed ETL processes for data warehouses using Python and Tableau, resolving
-    data inconsistencies and reducing reporting errors by 30%
-  - Automated data validation workflows with Python scripts, cutting manual reconciliation
-    efforts by 40% and ensuring compliance with regulatory standards
-  - Built interactive dashboards in Tableau for sales performance tracking, enabling
-    clients to monitor KPIs and identify trends 2x faster than previous reporting
-    methods
-  - Collaborated with engineering teams to refine data architecture, increasing data
-    ingestion efficiency by 20% through schema optimization and index tuning
-  - Created predictive models using Python for customer churn analysis, resulting
-    in a 12% improvement in retention strategies for marketing campaigns
-  - Streamlined data integration between Salesforce and internal systems using SQL,
-    reducing data latency from 48 hours to real-time synchronization
-  - Led data governance initiatives that standardized metadata across 5+ departments,
-    improving data discovery and query performance by 18%
-  - Implemented anomaly detection algorithms in Python to identify $2M in potential
-    revenue losses from billing discrepancies
-  - Transformed raw customer support logs into structured datasets using SQL, supporting
-    product teams in prioritizing feature improvements based on user feedback
-  - Established data quality frameworks that reduced invalid entries in production
-    databases by 28% through automated validation rules and stakeholder training
+  - Coordinated supplier logistics, shipment tracking, and transportation issue resolution
+    while proactively addressing delayed, lost, and damaged shipments to maintain
+    operational continuity.    - Reduced procurement costs by 10% through process
+    optimization initiatives focused on purchasing workflows, supplier management,
+    and sourcing efficiency.
+  - Partnered with project managers to support budgeting, bid evaluations, and supplier
+    selection processes, ensuring cost-effective procurement aligned with operational
+    goals.
+  - Led RFx and competitive sourcing initiatives with global suppliers, achieving
+    an 8% reduction in procurement costs through strategic negotiations and supplier
+    benchmarking.
+  - Managed global sourcing activities with cost-effective suppliers, maintaining
+    100% on-time delivery performance and adherence to quality standards.
+  - Collaborated with vendors, engineering teams, and project stakeholders to align
+    procurement activities with technical specifications and project timelines.
+  - Standardized procurement templates, governance processes, and operational tools,
+    improving compliance and accelerating cross-functional execution by 20%.
 - title: Procurement Analyst
   company: Valeo India
   dates: Jan 2015 - Dec 2017
   achievements:
-  - Used Python and SQL to optimize data pipelines, reducing ETL processing time by
-    40% and improving data availability for analytics teams
-  - Automated monthly financial reporting with Power BI and Python, saving 20+ hours
-    per month while increasing report accuracy to 99.8%
-  - Designed a cloud-based data warehouse on AWS Redshift that processed 150M+ records
-    daily, supporting real-time business intelligence dashboards
-  - Developed predictive maintenance models using R and Tableau that reduced equipment
-    downtime by 28% across 3 manufacturing facilities
-  - Created SQL views and stored procedures to standardize data access across departments,
-    decreasing data request resolution time by 65%
-  - Built a Spark-based ETL framework processing 2TB/day of user activity logs, enabling
-    faster customer behavior analysis for marketing teams
-  - Implemented data quality checks in Python that identified 12% more data anomalies
-    than previous manual processes
-  - Constructed interactive Tableau dashboards for sales KPIs used by 300+ users,
-    increasing data-driven decision-making adoption by 45%
-  - Migrated legacy Oracle databases to Snowflake cloud warehouse, achieving 70% faster
-    query performance and 30% lower costs
-  - Developed a Python API integration with Salesforce and Marketo that automated
-    85% of lead scoring data workflows
-  - Engineered a Hadoop-based data lake architecture storing 100+ PB of structured/unstructured
-    data for enterprise analytics use cases
-  - Created SQL-based anomaly detection system identifying $2.3M in potential revenue
-    leaks through subscription usage pattern analysis
+  - "Managed end-to-end RFx processes and strategic sourcing initiatives, achieving\
+    \ 10\u201315% procurement cost reductions through competitive vendor negotiations\
+    \ and supplier benchmarking."
+  - Expanded and diversified the supplier base through vendor onboarding, localization
+    initiatives, and dual-sourcing strategies, improving supply continuity and reducing
+    sourcing risks by 20%.
+  - Performed zero-based costing and detailed pricing analysis using advanced Excel
+    tools, enabling data-driven negotiations that achieved 15% procurement savings.
+  - Conducted multiple supplier auction events that achieved average savings of 15%
+    while strengthening supplier competitiveness and commercial transparency.
+  - Developed procurement KPI dashboards and supplier performance reports that reduced
+    reporting turnaround time by 40% and improved operational visibility.
+  - Conducted market benchmarking and pricing analysis for procurement categories,
+    identifying pricing outliers and supporting standardized sourcing strategies.
+  - Performed supplier risk assessments, pricing evaluations, and commercial benchmarking
+    to support sourcing decisions, strengthen supplier reliability, and improve procurement
+    risk management.
 projects:
 - project_name: Supply Chain Risk Mitigation
   description: Developed a Python-based supply risk monitoring tool to identify alternative
