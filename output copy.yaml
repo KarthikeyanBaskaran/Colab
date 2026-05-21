@@ -1,0 +1,224 @@
+summary: Strategic Procurement and Supply Chain Analyst with 8+ years of experience
+  leading sourcing, supplier management, procurement operations, and cost optimization
+  initiatives across global manufacturing and industrial environments. Proven expertise
+  in strategic sourcing, vendor negotiations, procurement analytics, ERP systems,
+  and supplier performance management using Power BI, SQL, and Excel. Experienced
+  managing end-to-end purchasing operations including purchase orders, shipment tracking,
+  lead-time monitoring, contract management, and supplier risk mitigation. Adept at
+  collaborating cross-functionally with operations, engineering, finance, and sales
+  teams to improve supply continuity, operational efficiency, and procurement performance.
+skills:
+- name: Procurement
+  keywords:
+  - Strategic Sourcing
+  - RFx
+  - Vendor Management
+  - PO Management
+  - Category Management
+- name: Supplier Management
+  keywords:
+  - Supplier KPIs
+  - Supplier Audits
+  - Supplier Development
+  - Supplier Risk
+  - Vendor Relations
+- name: Contracts
+  keywords:
+  - Master Agreements
+  - Contract Negotiation
+  - Pricing Analysis
+  - Commercial Terms
+  - Cost Modeling
+- name: Analytics
+  keywords:
+  - Power BI
+  - SQL
+  - Excel
+  - Tableau
+  - Data Modeling
+- name: Reporting
+  keywords:
+  - KPI Dashboards
+  - Forecasting
+  - Procurement Reporting
+  - Cost Analysis
+  - Vendor Scorecards
+- name: Logistics
+  keywords:
+  - Shipment Tracking
+  - Lead Time Analysis
+  - Freight Coordination
+  - Inventory Planning
+  - Supply Continuity
+- name: ERP Systems
+  keywords:
+  - SAP
+  - Dynamics 365
+  - Business Central
+  - ERP Reporting
+  - Data Extraction
+- name: Operations
+  keywords:
+  - Process Improvement
+  - Continuous Improvement
+  - Cross-functional Collaboration
+  - Stakeholder Management
+  - Root Cause Analysis
+- name: Technical
+  keywords:
+  - Blueprint Reading
+  - Technical Specifications
+  - Industrial Components
+  - Mechanical Systems
+  - PLC Components
+- name: Leadership
+  keywords:
+  - Team Coordination
+  - Procurement Governance
+  - Vendor Escalation
+  - Training
+  - Operational Support
+- name: Core Competencies
+  keywords:
+  - Strategic Procurement
+  - Supplier Negotiation
+  - Procurement Analytics
+  - Inventory Planning
+  - Cost Optimization
+  - Contract Management
+  - Supply Risk Mitigation
+  - Vendor Performance
+  - PO Management
+  - Lead Time Reduction
+work_experience:
+- title: Procurement Buyer
+  company: Decibel Cannabis Company
+  dates: Dec 2025 - Present
+  achievements:
+  - Built custom SQL-based tracking systems that automated supplier performance monitoring,
+    cutting manual reporting time by 50% and providing early warnings for dependency
+    risks.
+  - Designed interactive Power BI dashboards that turned messy procurement data into
+    clear, actionable insights, helping the team speed up sourcing workflows.
+  - Maintained 99%+ data accuracy within Sage ERP, ensuring the leadership team had
+    a 'single source of truth' for end-to-end supply chain visibility.
+  - Streamlined data mining processes by engineering complex queries to pull from
+    large datasets, transforming raw numbers into monthly performance reports.
+  - Reduced stockouts (98% production uptime) by re-engineering purchase planning
+    for global suppliers with long lead times.
+  - Maintained lean inventory levels by synchronizing the full PO lifecycle with real-time
+    manufacturing demands and monthly forecasts, reducing excess stock by 20%.
+  - Spearheaded strategic sourcing initiatives that slashed procurement costs while
+    diversifying the supplier base to lower organizational risk.
+  - Balanced inventory vs. finance goals to satisfy production needs while reducing
+    capital expenditure and holding costs.
+  - Boosted vendor accountability and lead-time reliability through a high-engagement
+    relationship model, resulting in a 30% improvement in on-time deliveries.
+  - Led cross-functional 'Continuous Improvement' sessions, collaborating with stakeholders
+    to bridge gaps between departments and implement procurement tools that scaled
+    with the business.
+  - Architected a Star Schema data model by structuring procurement data into Fact
+    and Dimension tables, enhancing Power BI report performance and enabling intuitive
+    self-service analytics.
+  - Managed the end-to-end Procure-to-Pay (P2P) lifecycle, streamlining PO creation
+    and shipment tracking to achieve a 98% on-time delivery rate and ensuring seamless
+    invoice reconciliation.
+- title: Procurement Engineer
+  company: Vestas Wind Technology
+  dates: Jan 2020 - Dec 2022
+  achievements:
+  - Reduced procurement costs by 15% by implementing data-driven supplier evaluation
+    models, conducting cost analysis, and negotiating strategic vendor agreements
+    across global supply chains.
+  - Improved purchasing efficiency by 20% through predictive demand forecasting and
+    inventory planning models, strengthening supplier coordination and reducing procurement
+    delays.
+  - Designed supplier scorecards and procurement KPI dashboards using Power BI and
+    Excel, enabling leadership to evaluate supplier reliability, pricing competitiveness,
+    quality, and service levels.
+  - Mitigated supply chain risks by developing alternate sourcing strategies, evaluating
+    supplier capabilities, and proactively addressing lead-time constraints, shortages,
+    and supplier performance issues impacting production timelines.
+  - Negotiated supplier contracts and commercial agreements that delivered measurable
+    cost savings while maintaining compliance with procurement and operational standards.
+  - Managed sourcing activities for electrical controls, converters, cables, and industrial
+    equipment, overseeing purchase orders, supplier coordination, and logistics execution
+    across projects.
+  - Leveraged market intelligence, pricing analysis, and category planning strategies
+    to identify sourcing opportunities and achieve 12% procurement cost savings.
+  - Negotiated supplier agreements and optimized commercial terms with primary and
+    secondary vendors, strengthening supply continuity and improving procurement scalability
+    across global sourcing operations.
+  - Procured industrial electrical and mechanical components while collaborating with
+    engineering teams to interpret technical specifications, validate supplier capabilities,
+    and support operational requirements.
+- title: Procurement Specialist
+  company: ManpowerGroup Services
+  dates: Jan 2018 - Dec 2019
+  achievements:
+  - Coordinated supplier logistics, shipment tracking, and transportation issue resolution
+    while proactively addressing delayed, lost, and damaged shipments to maintain
+    operational continuity.    - Reduced procurement costs by 10% through process
+    optimization initiatives focused on purchasing workflows, supplier management,
+    and sourcing efficiency.
+  - Partnered with project managers to support budgeting, bid evaluations, and supplier
+    selection processes, ensuring cost-effective procurement aligned with operational
+    goals.
+  - Led RFx and competitive sourcing initiatives with global suppliers, achieving
+    an 8% reduction in procurement costs through strategic negotiations and supplier
+    benchmarking.
+  - Managed global sourcing activities with cost-effective suppliers, maintaining
+    100% on-time delivery performance and adherence to quality standards.
+  - Collaborated with vendors, engineering teams, and project stakeholders to align
+    procurement activities with technical specifications and project timelines.
+  - Standardized procurement templates, governance processes, and operational tools,
+    improving compliance and accelerating cross-functional execution by 20%.
+- title: Procurement Analyst
+  company: Valeo India
+  dates: Jan 2015 - Dec 2017
+  achievements:
+  - "Managed end-to-end RFx processes and strategic sourcing initiatives, achieving\
+    \ 10\u201315% procurement cost reductions through competitive vendor negotiations\
+    \ and supplier benchmarking."
+  - Expanded and diversified the supplier base through vendor onboarding, localization
+    initiatives, and dual-sourcing strategies, improving supply continuity and reducing
+    sourcing risks by 20%.
+  - Performed zero-based costing and detailed pricing analysis using advanced Excel
+    tools, enabling data-driven negotiations that achieved 15% procurement savings.
+  - Conducted multiple supplier auction events that achieved average savings of 15%
+    while strengthening supplier competitiveness and commercial transparency.
+  - Developed procurement KPI dashboards and supplier performance reports that reduced
+    reporting turnaround time by 40% and improved operational visibility.
+  - Conducted market benchmarking and pricing analysis for procurement categories,
+    identifying pricing outliers and supporting standardized sourcing strategies.
+  - Performed supplier risk assessments, pricing evaluations, and commercial benchmarking
+    to support sourcing decisions, strengthen supplier reliability, and improve procurement
+    risk management.
+projects:
+- project_name: Supply Chain Risk Mitigation
+  description: Developed a Python-based supply risk monitoring tool to identify alternative
+    suppliers, track procurement disruptions, and improve sourcing continuity for
+    critical materials.
+  keywords:
+  - Python
+  - Supply Chain Risk
+  - Procurement
+  - Supplier Analysis
+- project_name: Global Sourcing Strategy
+  description: "Developed data-driven sourcing and supplier diversification strategies\
+    \ that achieved 10\u201315% cost savings while strengthening supply continuity\
+    \ across global procurement operations."
+  keywords:
+  - Global Sourcing
+  - Cost Optimization
+  - Supplier Strategy
+  - Procurement
+- project_name: E-Auction Platform
+  description: "Implemented digital e-auction procurement solutions that improved\
+    \ supplier competitiveness and reduced procurement costs by 8\u201312% across\
+    \ sourcing categories."
+  keywords:
+  - E-Auction
+  - Procurement
+  - Strategic Sourcing
+  - Cost Reduction
