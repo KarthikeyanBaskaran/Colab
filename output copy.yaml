@@ -95,34 +95,38 @@ work_experience:
   company: Decibel Cannabis Company
   dates: Dec 2025 - Present
   achievements:
-  - Built custom SQL-based tracking systems that automated supplier performance monitoring,
-    cutting manual reporting time by 50% and providing early warnings for dependency
-    risks.
-  - Designed interactive Power BI dashboards that turned messy procurement data into
-    clear, actionable insights, helping the team speed up sourcing workflows.
-  - Maintained 99%+ data accuracy within Sage ERP, ensuring the leadership team had
-    a 'single source of truth' for end-to-end supply chain visibility.
-  - Streamlined data mining processes by engineering complex queries to pull from
-    large datasets, transforming raw numbers into monthly performance reports.
-  - Reduced stockouts (98% production uptime) by re-engineering purchase planning
-    for global suppliers with long lead times.
-  - Maintained lean inventory levels by synchronizing the full PO lifecycle with real-time
-    manufacturing demands and monthly forecasts, reducing excess stock by 20%.
-  - Spearheaded strategic sourcing initiatives that slashed procurement costs while
-    diversifying the supplier base to lower organizational risk.
-  - Balanced inventory vs. finance goals to satisfy production needs while reducing
-    capital expenditure and holding costs.
-  - Boosted vendor accountability and lead-time reliability through a high-engagement
-    relationship model, resulting in a 30% improvement in on-time deliveries.
-  - Led cross-functional 'Continuous Improvement' sessions, collaborating with stakeholders
-    to bridge gaps between departments and implement procurement tools that scaled
-    with the business.
-  - Architected a Star Schema data model by structuring procurement data into Fact
-    and Dimension tables, enhancing Power BI report performance and enabling intuitive
-    self-service analytics.
-  - Managed the end-to-end Procure-to-Pay (P2P) lifecycle, streamlining PO creation
-    and shipment tracking to achieve a 98% on-time delivery rate and ensuring seamless
-    invoice reconciliation.
+  - Identified inefficiencies in procurement cycles by analyzing vendor performance
+    data, leading to a 20% reduction in lead times through targeted supplier optimization
+    strategies
+  - Streamlined data workflows by automating manual reporting processes with Python
+    and SQL, decreasing data processing time by 30% and improving stakeholder decision-making
+    speed
+  - Developed interactive Tableau dashboards to visualize procurement KPIs for cross-functional
+    stakeholders, enabling real-time tracking of $15M+ annual spend and driving cost-saving
+    initiatives
+  - Collaborated with procurement teams to standardize data collection protocols across
+    8+ departments, reducing data entry errors by 45% and improving reporting accuracy
+  - Built predictive models using R to forecast material demand fluctuations, supporting
+    inventory optimization that reduced excess stock by 18% and minimized supply chain
+    risks
+  - Designed Power BI dashboards to monitor supplier lead time trends, identifying
+    12 underperforming vendors that were replaced or renegotiated to improve delivery
+    reliability
+  - Implemented SQL-based data validation checks across procurement databases, resolving
+    150+ data quality issues and ensuring compliance with audit requirements
+  - Partnered with finance stakeholders to reconcile procurement spend discrepancies,
+    uncovering $2.3M in overpayments through granular transactional analysis
+  - Created automated anomaly detection systems using Python to flag procurement outliers,
+    reducing manual investigation time by 50% for finance teams
+  - Led a data governance initiative to document procurement data lineage across 12+
+    systems, improving transparency and reducing stakeholder request resolution time
+    by 35%
+  - Trained 50+ procurement staff on data visualization tools and best practices,
+    enhancing cross-functional collaboration and reducing data request backlogs by
+    60%
+  - Optimized SQL queries for procurement reporting by restructuring complex joins
+    and implementing indexing strategies, decreasing query runtime by 40% and improving
+    system performance
 - title: Procurement Engineer
   company: Vestas Wind Technology
   dates: Jan 2020 - Dec 2022
