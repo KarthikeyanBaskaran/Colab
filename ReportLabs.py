@@ -26,10 +26,10 @@ def build_pdf(data, output_file="resume.pdf"):
     styles = getSampleStyleSheet()
 
     # Custom styles
-    section_style = ParagraphStyle("Section", fontSize=12, textColor=colors.black, spaceAfter=6, leading=16, spaceBefore=12)
-    text_style = ParagraphStyle("Text", fontSize=10, leading=14)
-    justified_style = ParagraphStyle("Justified", fontSize=10, leading=14, alignment=TA_JUSTIFY)
-    bullet_style = ParagraphStyle("Bullet", fontSize=10, leading=14, leftIndent=15, bulletIndent=5, alignment=TA_JUSTIFY)
+    section_style = ParagraphStyle("Section", fontSize=11, textColor=colors.black, spaceAfter=5, leading=12, spaceBefore=10)
+    text_style = ParagraphStyle("Text", fontSize=9.5, leading=12)
+    justified_style = ParagraphStyle("Justified", fontSize=9.5, leading=12, alignment=TA_JUSTIFY)
+    bullet_style = ParagraphStyle("Bullet", fontSize=9.5, leading=12, leftIndent=15, bulletIndent=5, alignment=TA_JUSTIFY)
     big_bold_style = ParagraphStyle(
         name='BigBold',
         parent=styles['Normal'],

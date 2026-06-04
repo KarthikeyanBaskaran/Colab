@@ -1,6 +1,8 @@
-Professional Experience:
-
-  Decibel Cannabis Company:
+work_experience:
+- title: Procurement Buyer
+  company: Decibel Cannabis Company
+  dates: Dec 2025 - Present
+  achievements:
     - Built custom SQL-based tracking systems that automated supplier performance monitoring, cutting manual reporting time by 50% and providing early warnings for dependency risks.
     - Designed interactive Power BI dashboards that turned messy procurement data into clear, actionable insights, helping the team speed up sourcing workflows.
     - Maintained 99%+ data accuracy within Sage ERP, ensuring the leadership team had a 'single source of truth' for end-to-end supply chain visibility.
@@ -13,7 +15,10 @@ Professional Experience:
     - Led cross-functional 'Continuous Improvement' sessions, collaborating with stakeholders to bridge gaps between departments and implement procurement tools that scaled with the business.
     - Architected a Star Schema data model by structuring procurement data into Fact and Dimension tables, enhancing Power BI report performance and enabling intuitive self-service analytics.
     - Managed the end-to-end Procure-to-Pay (P2P) lifecycle, streamlining PO creation and shipment tracking to achieve a 98% on-time delivery rate and ensuring seamless invoice reconciliation.
-  Vestas Wind Technology:
+- title: Procurement Engineer
+  company: Vestas Wind Technology
+  dates: Jan 2020 - Dec 2022
+  achievements:
     - Achieved a 15% reduction in procurement costs by developing a data-driven supplier evaluation and conducting detailed cost analysis in supply chain operations.
     - Streamlined purchasing processes by 20% through predictive analytics for demand forecasting, enhancing inventory management and supplier coordination.
     - Delivered savings of $35M by developing Python-based automation tools to optimize procurement and buying workflows, improving operational efficiency.
@@ -40,8 +45,10 @@ Professional Experience:
     - Built and maintained strong vendor networks for electrical controls, converters, cables, and equipment, managing a specialized supplier database for reliable sourcing.
     - Supported account management by coordinating invoices, payments, and expense tracking within project systems, maintaining accuracy and transparency.
     - Applied market intelligence and value analytics to category planning, generating insights that drove innovative sourcing strategies and achieved 12% cost savings
-
-  ManpowerGroup Services:
+- title: Procurement Specialist
+  company: ManpowerGroup Services
+  dates: Jan 2018 - Dec 2019
+  achievements:
     - Organized and tracked outgoing shipments, coordinating with clients and logistics teams to ensure efficient and timely delivery of materials.
     - Reduced procurement costs by 10% through data-driven process optimization in supply chain and purchasing operations.
     - Collaborated with project managers to plan budgets, coordinate bid processes, and conduct bid evaluations, ensuring cost-effective procurement aligned with project goals.
@@ -61,7 +68,10 @@ Professional Experience:
     - Utilized strong verbal and written skills to collaborate with teams, vendors, and clients on electrical equipment needs, ensuring clarity and alignment.
     - Partnered with engineering and fabrication teams to align procurement of electrical components with project timelines, ensuring seamless integration and execution.
     - Led process governance initiatives by standardizing procurement templates and tools, improving compliance and accelerating cross-functional alignment by 20%.
-  Valeo India:
+- title: Procurement Analyst
+  company: Valeo India
+  dates: Jan 2015 - Dec 2017
+  achievements:
     - Managed RFx processes across supply chain segments, achieving 10–15% cost reductions through competitive vendor sourcing and strategic procurement.
     - Built a robust supplier base by inducting vendors, implementing double sourcing, and driving localization, improving supply chain efficiency by 20%.
     - Executed supplier auctions using digital platforms, reducing procurement costs by 8–12% through competitive bidding and strategic negotiations.
