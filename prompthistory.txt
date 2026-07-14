@@ -1,0 +1,33 @@
+RESUME REWRITE PROMPT
+Recent
+        """rewrite the summary to suit the job description and resume
+
+        [Constraints]
+        - Truthfulness: Use ONLY metrics, tools, and software explicitly in the Resume. Never add/change tools or numbers.
+        - Format: Return ONLY a raw, valid Python list of 7 strings on ONE continuous line. No markdown blocks (```), no \n, no indents. Start with [ and end with ].
+        - Content: Blend problem, solution, and impact seamlessly. No labels like "Problem:" or "Impact:".
+        
+        NO PREAMBLE
+
+        [Data]
+        Resume: {experience}
+        Job: {jobdescription}
+        ""
+
+V2
+        """[Task] Rewrite exactly 7 resume bullet points to align with the Job Description.
+        [Constraints]
+        - Truthfulness: Use ONLY metrics, tools, and software explicitly in the Resume. Never add/change tools or numbers.
+        - Format: Return ONLY a raw, valid Python list of 7 strings on ONE continuous line. No markdown blocks (```), no \n, no indents. Start with [ and end with ].
+        - Content: Blend problem, solution, and impact seamlessly. No labels like "Problem:" or "Impact:".
+
+        [Example]
+        Resume: - Built SQL tracking systems for supplier monitoring, cutting reporting time by 50%.
+        Job: Optimize vendor workflows and leverage data analytics.
+        Output: ["Optimized vendor workflows by building SQL tracking systems to automate supplier monitoring, cutting reporting time by 50%."]
+
+        [Data]
+        Resume: {experience}
+        Job: {jobdescription}
+
+        [Guardrail] Ensure exactly 7 elements are in the list. Zero invented skills/tools."""
