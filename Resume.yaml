@@ -15,6 +15,12 @@ work_experience:
     - Led cross-functional 'Continuous Improvement' sessions, collaborating with stakeholders to bridge gaps between departments and implement procurement tools that scaled with the business.
     - Architected a Star Schema data model by structuring procurement data into Fact and Dimension tables, enhancing Power BI report performance and enabling intuitive self-service analytics.
     - Managed the end-to-end Procure-to-Pay (P2P) lifecycle, streamlining PO creation and shipment tracking to achieve a 98% on-time delivery rate and ensuring seamless invoice reconciliation.
+    - Led procurement reporting automation using SQL and Python, improving spend visibility and reducing manual reporting effort by 30% to support strategic sourcing decisions.
+    - Developed procurement demand forecasting models that improved purchasing decisions, reduced excess inventory by 18%, and strengthened supplier planning.
+    - Analyzed procurement transactions to identify spend anomalies and supplier pricing inconsistencies, improving financial controls and reducing investigation time by 50%.
+    - Standardized procurement reporting processes and supplier master data governance across multiple systems, improving reporting consistency and supporting audit readiness.
+    - Enhanced procurement reporting systems through SQL optimization, enabling faster access to supplier performance, spend, and purchasing metrics for management decision-making.
+
 - title: Procurement Engineer
   company: Vestas Wind Technology
   dates: Jan 2020 - Dec 2022
@@ -217,3 +223,37 @@ projects:
       - Vector Databases
       - Semantic Search
       - LLMs
+  - project_name: Strategic Category Sourcing Initiative
+    description: "Developed a data-driven sourcing strategy using market analysis and\
+      \ cost benchmarking to identify cost-saving opportunities, achieving 10\u2013\
+      15% cost reductions across global supply chains while ensuring alignment with\
+      \ organizational goals."
+    keywords:
+    - Strategic Sourcing
+    - Market Analysis
+    - Cost Benchmarking
+    - Supply Chain
+  - project_name: Supplier Cost Optimization
+    description: Analyzed supplier costs and payment terms to identify significant savings
+      through standardized procurement strategies and competitive sourcing, ensuring
+      favorable terms and organizational cost-efficiency.
+    keywords:
+    - Cost Optimization
+    - Procurement
+    - Negotiation
+    - Supplier Relationship Management
+
+  - project_name: Procurement Process Improvement Initiative
+    description: Led procurement process improvements by standardizing RFx documentation, supplier evaluation criteria, and procurement reporting workflows to improve sourcing efficiency and governance.
+    keywords:
+    - RFx
+    - Supplier Optimization
+    - Supplier Selection
+    - Process Improvement
+  - project_name: Supplier Performance & Governance Program
+    description: Designed supplier scorecards and procurement dashboards that monitored delivery, quality, spend, and lead-time KPIs, supporting supplier development initiatives and strategic sourcing decisions.
+    keywords:
+    - Supplier Tracking
+    - Vendor Management
+    - KPIs
+    - Process Optimization
