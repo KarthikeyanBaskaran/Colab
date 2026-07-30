@@ -1,0 +1,148 @@
+work_experience:
+- title: Procurement Buyer
+  company: Decibel Cannabis Company
+  dates: Dec 2025 - Present
+  achievements:
+    - Eliminated fragmented procurement reporting by engineering Python and SQL-based data pipelines that consolidated supplier, inventory, and purchasing data, reducing manual reporting effort by 50%.
+    - Designed and deployed production-grade Power BI reporting solutions backed by optimized SQL queries, enabling leadership to monitor supplier performance, purchasing trends, and operational KPIs in near real time.
+    - Improved enterprise data integrity by implementing automated SQL validation rules and governance processes, maintaining over 99% Sage ERP master data accuracy for downstream business systems.
+    - Built reusable SQL transformation logic to integrate procurement, inventory, and manufacturing datasets into a centralized reporting model, improving report performance and reducing query execution times.
+    - Solved recurring production disruptions by developing demand-planning models that synchronized purchasing with manufacturing schedules, maintaining 98% production uptime while reducing excess inventory by 20%.
+    - Streamlined the end-to-end Procure-to-Pay workflow by automating purchase order tracking, shipment monitoring, and invoice reconciliation, consistently achieving 98% on-time supplier delivery.
+    - Developed Python automation and SQL reporting solutions that improved procurement analytics, increasing spend visibility while reducing manual reporting activities by 30%.
+    - Built forecasting models using historical purchasing and inventory data to improve replenishment planning, reducing excess inventory by 18% while improving supplier collaboration.
+    - Implemented automated anomaly detection using SQL to identify pricing discrepancies, duplicate transactions, and supplier inconsistencies, reducing financial investigation time by 50%.
+    - Standardized supplier master data and reporting processes across multiple enterprise systems, improving audit readiness and ensuring consistent reporting outputs.
+    - Engineered a dimensional Star Schema data model with fact and dimension tables, improving Power BI scalability and enabling self-service analytics across procurement operations.
+    - Collaborated directly with operations, finance, manufacturing, and suppliers to gather business requirements, translate operational workflows into technical solutions, and deliver scalable reporting capabilities.
+- title: Procurement Engineer
+  company: Vestas Wind Technology
+  dates: Jan 2020 - Dec 2022
+  achievements:
+    - Automated procurement workflows by developing Python applications that eliminated repetitive manual processes, contributing to over $35M in operational savings.
+    - Built scalable SQL and Power BI reporting solutions that integrated procurement, inventory, and supplier datasets, enabling data-driven sourcing decisions across multiple business units.
+    - Developed automated supplier scorecards using Python, SQL, Excel, and Power BI, improving supplier performance visibility while reducing manual reporting effort by 30%.
+    - Improved material planning accuracy by implementing predictive demand models that optimized inventory levels and reduced purchasing cycle time by 20%.
+    - Designed automated ETL workflows using Power Query, SharePoint, and SAP to synchronize procurement data across enterprise systems, improving reporting accuracy and operational efficiency.
+    - Developed reusable procurement analytics solutions that monitored supplier KPIs, category spend, and inventory readiness through interactive Power BI dashboards.
+    - Improved SAP master data quality by implementing automated validation scripts using VBA and Python, reducing procurement data errors by 25%.
+    - Partnered with engineering, manufacturing, logistics, and suppliers to translate operational requirements into automated procurement solutions supporting global sourcing initiatives.
+    - Reduced supply chain risk by developing analytical models that identified alternative suppliers and potential sourcing bottlenecks before impacting production.
+    - Engineered automated quotation comparison tools using Python that reduced RFQ evaluation time by 40% while improving sourcing consistency.
+    - Negotiated supplier agreements using detailed cost analytics and market benchmarking, achieving measurable procurement savings while maintaining supplier compliance.
+    - Automated supplier SLA monitoring through SQL-driven KPI reporting, increasing operational transparency and reducing manual tracking activities.
+    - Identified automation opportunities across procurement operations and developed scalable software solutions that improved team productivity and process standardization.
+    - Served as the primary technical and procurement liaison for electrical equipment sourcing, coordinating suppliers, logistics providers, engineering teams, and project stakeholders throughout delivery.
+    - Produced standardized procurement documentation, governance processes, and operational procedures that improved onboarding, compliance, and long-term process scalability.
+- title: Procurement Specialist
+  company: ManpowerGroup Services
+  dates: Jan 2018 - Dec 2019
+  achievements:
+    - Modernized procurement operations by developing Python automation tools that reduced manual purchasing activities by 25% while improving workflow consistency.
+    - Built cloud-enabled procurement reporting solutions that increased team productivity by 30% through automated data processing and standardized reporting.
+    - Integrated SAP procurement data into centralized reporting workflows, reducing manual effort by 30% while improving enterprise data quality.
+    - Led RFx processes supported by analytical supplier evaluations, reducing procurement costs by 8% through competitive sourcing and structured negotiations.
+    - Collaborated with engineering, project management, and operations teams to convert procurement requirements into standardized purchasing workflows, reducing project delivery timelines by 10%.
+    - Developed Power BI dashboards using Python-generated datasets to provide real-time visibility into procurement KPIs, supplier performance, and purchasing trends.
+    - Identified supplier optimization opportunities through spend analytics and payment-term modeling, generating approximately €3M in cost savings.
+    - Improved procurement process efficiency by applying Lean methodologies and workflow automation, increasing purchasing productivity by 15%.
+    - Strengthened supplier collaboration through structured communication frameworks and performance monitoring, improving vendor engagement by 12%.
+    - Standardized procurement governance by implementing reusable RFx templates, reporting standards, and documentation processes that improved compliance and cross-functional alignment by 20%.
+- title: Procurement Analyst
+  company: Valeo India
+  dates: Jan 2015 - Dec 2017
+  achievements:
+    - Developed analytical sourcing models that optimized supplier selection and consistently achieved 10-15% procurement cost reductions through competitive RFx processes.
+    - Built interactive procurement dashboards that automated KPI reporting, reducing manual reporting effort by 40% while improving supplier performance visibility.
+    - Designed data-driven supplier evaluation frameworks using Excel automation and cost benchmarking techniques, improving sourcing decisions across multiple commodity categories.
+    - Executed digital supplier auctions and automated quotation analysis, delivering 8-12% procurement savings through competitive bidding strategies.
+    - Improved supplier resilience by implementing dual sourcing and localization initiatives, increasing supply chain flexibility by 20%.
+    - Applied zero-based costing methodologies and advanced data analysis to support supplier negotiations, generating procurement savings of approximately 15%.
+    - Implemented standardized pricing analytics and market benchmarking models to identify pricing anomalies and improve procurement decision-making.
+    - Introduced RXIL TReDS into supplier payment workflows, improving supplier liquidity while streamlining financial operations.
+    - Conducted supplier risk assessments using operational and commercial data to proactively identify compliance, continuity, and sourcing risks before project impact.
+projects:
+  - project_name: Procurement Analytics Dashboard
+    description: Developed a Power BI dashboard to track procurement KPIs, supplier performance, and category spend, providing actionable insights for informed purchasing decisions.
+    keywords:
+      - Power BI
+      - Procurement
+      - Supply Chain
+      - KPIs
+
+  - project_name: SAP Procurement Automation
+    description: Built automation solutions using Excel VBA and SAP to streamline procurement data management, enhancing operational efficiency and data accuracy in supply chain processes.
+    keywords:
+      - SAP
+      - Excel VBA
+      - Procurement
+      - Data Automation
+
+  - project_name: Supply Chain Risk Mitigation
+    description: Developed a Python-based tool to analyze supply chain data and identify alternative sourcing options, mitigating procurement risks and ensuring delivery reliability.
+    keywords:
+      - Python
+      - Supply Chain
+      - Risk Mitigation
+      - Procurement
+
+  - project_name: RFx Process Automation
+    description: Created Python scripts to automate RFx processes, reducing purchasing cycle times by 40% and improving efficiency in supplier selection and procurement.
+    keywords:
+      - Python
+      - RFx
+      - Procurement
+      - Automation
+
+  - project_name: RFx Automation for Electrical Systems
+    description: Automated supplier bid comparison using Python, reducing electrical quotation analysis time by 40% and enabling faster decision-making in tender evaluations.
+    keywords:
+      - Python
+      - RFx
+      - Electrical Procurement
+      - Automation
+
+  - project_name: Global Sourcing Strategy for Controls & Automation
+    description: Formulated data-driven sourcing strategies for electrical and control equipment, achieving 10–15% cost savings through supplier consolidation and benchmarking.
+    keywords:
+      - Electrical Procurement
+      - Global Sourcing
+      - Cost Benchmarking
+      - Supplier Strategy
+  - project_name: Home Lab Infrastructure & Server Management
+    description: Architected a multi-service home server environment using Linux Mint and Cockpit to master server administration, implementing Immich for automated media backup and Joplin for centralized knowledge management. Established remote monitoring protocols to ensure 24/7 uptime and efficient resource allocation.
+    keywords:
+      - Linux Mint
+      - Cockpit
+      - Immich
+      - Docker
+      - Server Management
+
+  - project_name: AI-Powered Resume Optimization Tool
+    description: Developed a Python-based automation tool designed to tailor professional resumes by matching candidate profiles with specific job descriptions. Optimized the tool to highlight key competencies and technical skills, streamlining the application process and improving recruitment visibility.
+    keywords:
+      - Python
+      - Web Automation
+      - NLP
+      - Resume Engineering
+
+  - project_name: Advanced RAG & Semantic Search Engine
+    description: Engineered a Retrieval-Augmented Generation (RAG) system utilizing semantic search to extract and synthesize information from large, unstructured datasets. Implemented vector embeddings to improve contextual accuracy, enabling more precise and relevant information retrieval than keyword-based methods.
+    keywords:
+      - Python
+      - LangChain
+      - Vector Databases
+      - Semantic Search
+      - LLMs
+
+  - project_name: ERP Integration & Procurement Data Pipeline
+    description: Built a Python-based integration framework that extracted procurement data from ERP systems, transformed JSON payloads into normalized SQL tables, and automated reporting through reusable ETL pipelines. Implemented validation rules, audit logging, and exception handling to improve data integrity and support production reporting.
+    keywords:
+      - Python
+      - SQL
+      - REST API
+      - JSON
+      - ETL
+      - Data Pipelines
+      - ERP Integration
+      - Azure
