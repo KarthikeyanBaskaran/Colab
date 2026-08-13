@@ -110,9 +110,9 @@ def build_pdf(data, output_file="resume.pdf"):
 
     hardcoded_jobs = [
         {"title": "Category Buyer", "company": "Decibel Cannabis Company", "dates": "Dec 2025 - Present"},
-        {"title": "Purchaser in Global Procurement", "company": "Vestas Wind Systems", "dates": "Nov 2021 - Aug 2023"},
-        {"title": "Consultant ECM Purchaser in Global Procurement,Vestas", "company": "ManpowerGroup Services", "dates": "Jan 2021 - Nov 2021"},
-        {"title": "Procurement Engineer(Intern) - Global Sourcing", "company": "Valeo India", "dates": "Jan 2019 - Jan 2021"}
+        {"title": "Purchaser in Global Procurement", "company": "Vestas Wind Systems", "dates": "Feb 2021 - Aug 2023"},
+        {"title": "Procurement Engineer", "company": "Valeo India", "dates": "Jun 2019 - Jan 2021"},
+        {"title": "Junior Engineer", "company": "Precirec Engineers", "dates": "Mar 2017 - Jun 2019"}
     ]
 
     for idx, job in enumerate(hardcoded_jobs):
