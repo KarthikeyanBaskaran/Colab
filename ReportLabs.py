@@ -8,6 +8,16 @@ from reportlab.lib.enums import TA_JUSTIFY
 from io import BytesIO
 from reportlab.pdfgen import canvas
 from PyPDF2 import PdfReader, PdfWriter
+import datetime
+
+# Get current date
+now = datetime.datetime.now()
+
+# Add 2 months and handle calendar wrap-around
+future_month_num = (now.month + 2 - 1) % 12 + 1
+future_date = now.replace(month=future_month_num)
+formatted_month = future_date.strftime("%b 2026")
+
 
 # Load YAML
 def load_content(yaml_file):
@@ -140,7 +150,7 @@ def build_pdf(data, output_file="resume.pdf"):
         yaml_job = data['work_experience'][idx]
         bullet_points = [ListItem(Paragraph(bp, bullet_style)) for bp in yaml_job["achievements"]]
         elements.append(ListFlowable(bullet_points, bulletType="bullet", start="•"))
-        elements.append(Spacer(1, 6))
+        elements.append(Spacer(1, 4))
 
     # ---- PROJECTS ----
     elements.append(Paragraph("Projects", section_style))
@@ -151,7 +161,13 @@ def build_pdf(data, output_file="resume.pdf"):
         elements.append(Paragraph(f"<b>{proj['project_name']}</b>", text_style))
         elements.append(Paragraph(proj["description"], justified_style))
         elements.append(Paragraph(f"({', '.join(proj['keywords'])})", text_style))
-        elements.append(Spacer(1, 6))
+        elements.append(Spacer(1, 4))
+    # ---- CERTIFICATIONS ----
+    elements.append(Paragraph("Certification", section_style))
+    elements.append(HRFlowable(width="100%", thickness=0.75, lineCap='round', color='black'))
+    elements.append(Spacer(1, 4))
+    elements.append(Paragraph(f"APICS Certified Supply Chain Professional (CSCP) - In progress", justified_style))
+    elements.append(Paragraph(f"Exp Completion {formatted_month}", justified_style))
 
     # ---- EDUCATION ----
     elements.append(Paragraph("Education", section_style))
@@ -160,7 +176,7 @@ def build_pdf(data, output_file="resume.pdf"):
 
     hardcoded_education = [
         {"degree": " Post Grad Diploma in Data Analytics for Business", "institution": "St. Clair College, Canada", "gpa": "4.0 ", "dates": "Sep 2023 - Apr 2025"},
-        {"degree": "Bachelor of Mechanical Engineering", "institution": "St. Joseph's Institute of Technology, India", "gpa": "3.7", "dates": "Jun 2014 - Jun 2018"}
+        {"degree": " Bachelor of Mechanical Engineering", "institution": "St. Joseph's Institute of Technology, India", "gpa": "3.7 ", "dates": "Jun 2014 - Jun 2018"},
     ]
 
     for edu in hardcoded_education:
@@ -186,7 +202,7 @@ def build_pdf(data, output_file="resume.pdf"):
       ]))
 
       elements.append(header_table)
-      elements.append(Spacer(1, 6))
+      elements.append(Spacer(1, 4))
 
     # Create dummy canvas for height calculation
     buffer = BytesIO()

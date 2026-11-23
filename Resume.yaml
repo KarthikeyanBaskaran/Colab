@@ -1,205 +1,237 @@
 work_experience:
-- title: Procurement Buyer
-  company: Decibel Cannabis Company
-  dates: Dec 2025 - Present
-  achievements:
-    - Built custom SQL-based tracking systems that automated supplier performance monitoring, cutting manual reporting time by 50% and providing early warnings for dependency risks.
-    - Designed interactive Power BI dashboards that turned messy procurement data into clear, actionable insights, helping the team speed up sourcing workflows.
-    - Maintained 99%+ data accuracy within Sage ERP, ensuring the leadership team had a 'single source of truth' for end-to-end supply chain visibility.
-    - Streamlined data mining processes by engineering complex queries to pull from large datasets, transforming raw numbers into monthly performance reports.
-    - Reduced stockouts (98% production uptime) by re-engineering purchase planning for global suppliers with long lead times.
-    - Maintained lean inventory levels by synchronizing the full PO lifecycle with real-time manufacturing demands and monthly forecasts, reducing excess stock by 20%.
-    - Spearheaded strategic sourcing initiatives that slashed procurement costs while diversifying the supplier base to lower organizational risk.
-    - Balanced inventory vs. finance goals to satisfy production needs while reducing capital expenditure and holding costs.
-    - Boosted vendor accountability and lead-time reliability through a high-engagement relationship model, resulting in a 30% improvement in on-time deliveries.
-    - Led cross-functional 'Continuous Improvement' sessions, collaborating with stakeholders to bridge gaps between departments and implement procurement tools that scaled with the business.
-    - Architected a Star Schema data model by structuring procurement data into Fact and Dimension tables, enhancing Power BI report performance and enabling intuitive self-service analytics.
-    - Managed the end-to-end Procure-to-Pay (P2P) lifecycle, streamlining PO creation and shipment tracking to achieve a 98% on-time delivery rate and ensuring seamless invoice reconciliation.
-    - Led procurement reporting automation using SQL and Python, improving spend visibility and reducing manual reporting effort by 30% to support strategic sourcing decisions.
-    - Developed procurement demand forecasting models that improved purchasing decisions, reduced excess inventory by 18%, and strengthened supplier planning.
-    - Analyzed procurement transactions to identify spend anomalies and supplier pricing inconsistencies, improving financial controls and reducing investigation time by 50%.
-    - Standardized procurement reporting processes and supplier master data governance across multiple systems, improving reporting consistency and supporting audit readiness.
-    - Enhanced procurement reporting systems through SQL optimization, enabling faster access to supplier performance, spend, and purchasing metrics for management decision-making.
+  - title: Procurement Buyer
+    company: Decibel Cannabis Company
+    dates: Dec 2025 - Present
+    achievements:
+      - Identified gaps in supplier performance visibility and built custom SQL-based tracking systems to automate monitoring, cutting manual reporting time by 50% and enabling earlier identification of supplier dependency risks.
+      - Addressed fragmented procurement reporting by designing interactive Power BI dashboards that consolidated purchasing, supplier, and inventory data, providing actionable insights to accelerate sourcing and purchasing workflows.
+      - Improved procurement data reliability by maintaining 99%+ accuracy within Sage ERP, strengthening master data integrity and providing leadership with a consistent source of truth for supply chain decisions.
+      - Faced with large and complex procurement datasets, engineered SQL queries to extract and transform purchasing data into recurring monthly performance reports, improving visibility into supplier and procurement performance.
+      - Addressed stockout risks associated with global suppliers and extended lead times by re-engineering purchase planning around production requirements, supporting 98% production uptime.
+      - Balanced production requirements with inventory and working-capital objectives by synchronizing the PO lifecycle with manufacturing demand and monthly forecasts, reducing excess inventory by 20%.
+      - Identified opportunities to reduce procurement costs and supply concentration risk by leading strategic sourcing initiatives and diversifying the supplier base to strengthen supply continuity.
+      - Balanced competing production and finance requirements by aligning purchasing decisions with material availability, inventory requirements, and capital expenditure objectives while controlling holding costs.
+      - Addressed supplier delivery and lead-time reliability issues through proactive vendor engagement and relationship management, resulting in a 30% improvement in on-time deliveries.
+      - Identified cross-functional procurement process gaps and led Continuous Improvement sessions with stakeholders, implementing scalable procurement tools and improving alignment between departments.
+      - Improved procurement analytics capability by architecting a Star Schema data model using Fact and Dimension tables, enhancing Power BI reporting performance and enabling intuitive self-service analysis.
+      - Managed the end-to-end Procure-to-Pay lifecycle, coordinating PO creation, supplier follow-up, shipment tracking, and invoice reconciliation to achieve a 98% on-time delivery rate.
+      - Reduced manual procurement reporting requirements by leading SQL and Python automation initiatives, improving spend visibility by 30% and supporting data-driven sourcing and purchasing decisions.
+      - Addressed demand and inventory planning challenges by developing procurement forecasting models, improving purchasing decisions, reducing excess inventory by 18%, and strengthening supplier planning.
+      - Identified spend anomalies and supplier pricing inconsistencies through procurement transaction analysis, strengthening financial controls and reducing investigation time by 50%.
+      - Addressed inconsistencies across procurement systems by standardizing reporting processes and supplier master data governance, improving reporting consistency and supporting audit readiness.
+      - Improved management access to procurement intelligence by optimizing SQL-based reporting systems, enabling faster analysis of supplier performance, spend, and purchasing metrics.
 
-- title: Procurement Engineer
-  company: Vestas Wind Technology
-  dates: Jan 2020 - Dec 2022
-  achievements:
-    - Achieved a 15% reduction in procurement costs by developing a data-driven supplier evaluation and conducting detailed cost analysis in supply chain operations.
-    - Streamlined purchasing processes by 20% through predictive analytics for demand forecasting, enhancing inventory management and supplier coordination.
-    - Delivered savings of $35M by developing Python-based automation tools to optimize procurement and buying workflows, improving operational efficiency.
-    - Enhanced supplier performance monitoring by implementing vendor scorecards using Excel and Power BI, providing actionable insights for procurement decisions.
-    - Integrated procurement and supply chain systems using Microsoft Power Query and SharePoint, automating operations and reducing manual efforts by 30%.
-    - Developed a comprehensive Power BI dashboard to track procurement KPIs, supplier performance, and category spend, empowering leadership with data-driven purchasing insights.
-    - Optimized material master data accuracy in SAP using VBA automation, improving data consistency in procurement processes and reducing errors by 25%.
-    - Collaborated with supply chain teams to develop scalable solutions for monitoring procurement and inventory systems, ensuring seamless integration with existing platforms.
-    - Mitigated supply chain risks by analyzing data to identify alternative sourcing options, addressing potential bottlenecks in procurement and delivery.
-    - Streamlined RFQ processes using advanced quote comparison tools and automation, reducing purchasing cycle times by 40%.
-    - Negotiated supplier contracts to achieve significant cost savings while ensuring compliance with procurement policies and regulations.
-    - Improved KPI tracking by automating SLA adherence reporting for suppliers, increasing transparency in procurement operations and reducing manual intervention.
-    - Identified opportunities for process automation in purchasing and procurement, implementing solutions to enhance scalability and efficiency.
-    - Enhanced procurement team efficiency by integrating predictive analytics for prioritizing supplier engagements, accelerating delivery timelines by 15%.
-    - Developed Python-based automation scripts to streamline supplier data validation and procurement tracking, improving workflow efficiency.
-    - Created interactive Power BI dashboards to visualize procurement metrics and supplier performance, supporting data-driven buying decisions.
-    - Automated procurement documentation processes using Power Query and SharePoint, reducing manual effort and errors in supply chain operations by 30%.
-    - Built a comprehensive Power BI dashboard to monitor procurement KPIs, supplier reliability, and inventory readiness, supporting stakeholder reporting.
-    - Improved data consistency in procurement systems by scripting automated validation routines in Python for supply chain management.
-    - Collaborated with cross-functional teams to build scalable tools for supplier management and procurement tracking, ensuring alignment with supply chain goals.
-    - Mitigated supply chain risks by conducting detailed supplier analysis and identifying alternative sourcing strategies, resolving 95% of potential procurement issues.
-    - Acted as the primary contact for sourcing electrical controls, converters, cables, and equipment across projects, managing purchase orders, supplier coordination, and logistics.
-    - Developed and enforced comprehensive procurement policies and workflows, ensuring thorough documentation, staff training, and ongoing stewardship to support operational excellence.
-    - Built and maintained strong vendor networks for electrical controls, converters, cables, and equipment, managing a specialized supplier database for reliable sourcing.
-    - Supported account management by coordinating invoices, payments, and expense tracking within project systems, maintaining accuracy and transparency.
-    - Applied market intelligence and value analytics to category planning, generating insights that drove innovative sourcing strategies and achieved 12% cost savings
-- title: Procurement Specialist
-  company: ManpowerGroup Services
-  dates: Jan 2018 - Dec 2019
-  achievements:
-    - Organized and tracked outgoing shipments, coordinating with clients and logistics teams to ensure efficient and timely delivery of materials.
-    - Reduced procurement costs by 10% through data-driven process optimization in supply chain and purchasing operations.
-    - Collaborated with project managers to plan budgets, coordinate bid processes, and conduct bid evaluations, ensuring cost-effective procurement aligned with project goals.
-    - Successfully assessed and enhanced procurement practices by implementing lean systems, resulting in streamlined workflows, improved process control, and cost efficiencies for fast-paced, agile organizations.
-    - Identified savings of 3M EUR by analyzing supplier costs and optimizing payment credit periods, implementing efficient procurement strategies.
-    - Improved purchasing efficiency by 15% by leading cross-functional collaboration and deploying Lean methodologies in supply chain processes.
-    - Enhanced supply chain capacity by 20% through procurement process improvements, enabling better resource allocation for purchasing activities.
-    - Developed cloud-based automation tools for procurement, resulting in a 30% increase in team productivity and faster processing of purchasing tasks.
-    - Led RFx processes for supply chain segments, negotiating competitive pricing with global vendors and achieving an 8% reduction in procurement costs.
-    - Collaborated with supply chain and procurement teams to define purchasing requirements, ensuring alignment with operational needs and delivering projects 10% faster.
-    - Built Python automation scripts to optimize procurement workflows, reducing manual effort in purchasing tasks by 25%.
-    - Strengthened supplier relationships by implementing efficient communication strategies, improving vendor engagement in procurement by 12%.
-    - Developed dashboards using Python and Power BI to monitor procurement KPIs, enhancing decision-making accuracy in purchasing by 18%.
-    - Integrated ERP tools (SAP) to streamline procurement and supply chain workflows, reducing manual effort by 30% and improving data accuracy.
-    - Collaborated on ERP system enhancements for procurement, reducing purchasing cycle times by 20% and improving data accessibility for stakeholders.
-    - Sourced globally from cost-effective suppliers to meet supply chain demands, ensuring 100% on-time delivery and adherence to quality standards.
-    - Utilized strong verbal and written skills to collaborate with teams, vendors, and clients on electrical equipment needs, ensuring clarity and alignment.
-    - Partnered with engineering and fabrication teams to align procurement of electrical components with project timelines, ensuring seamless integration and execution.
-    - Led process governance initiatives by standardizing procurement templates and tools, improving compliance and accelerating cross-functional alignment by 20%.
-- title: Procurement Analyst
-  company: Valeo India
-  dates: Jan 2015 - Dec 2017
-  achievements:
-    - Managed RFx processes across supply chain segments, achieving 10–15% cost reductions through competitive vendor sourcing and strategic procurement.
-    - Built a robust supplier base by inducting vendors, implementing double sourcing, and driving localization, improving supply chain efficiency by 20%.
-    - Executed supplier auctions using digital platforms, reducing procurement costs by 8–12% through competitive bidding and strategic negotiations.
-    - Performed zero-based costing using advanced Excel (macros, pivot tables) and analytical tools, enabling 15% cost savings in procurement through data-driven negotiations.
-    - Optimized purchasing processes by aligning supply chain techniques with best-cost practices, achieving a 10% reduction in procurement costs.
-    - Conducted over 5 supplier auctions, achieving an average of 15% cost savings by fostering competitive bidding among preferred vendors.
-    - Led data-driven RFx processes on digital platforms, achieving an 8–12% reduction in procurement costs through competitive analysis and strategic sourcing.
-    - Built interactive dashboards to monitor procurement KPIs and supplier performance, reducing reporting time in purchasing by 40%.
-    - Executed e-auctions and sourcing strategies to optimize supplier selection and drive cost efficiency across procurement categories.
-    - Performed cost benchmarking for supply chain components, using market data to identify outliers and inform pricing strategies in purchasing.
-    - Implemented RXIL TReDS (Trade Receivables Discounting System), improving supplier liquidity and streamlining invoice discounting in procurement workflows.
-    - Analyzed Linear Pricing Patterns (LPP) across key materials to identify cost anomalies and support standardized pricing frameworks in procurement.
-    - Engaged in third-party risk management by conducting supplier risk assessments and integrating findings into category strategies, mitigating compliance and supply continuity risks.
+  - title: Procurement Engineer
+    company: Vestas Wind Technology
+    dates: Jan 2018 - Dec 2022
+    achievements:
+      - Identified supplier cost optimization opportunities through data-driven supplier evaluation and detailed cost analysis, achieving a 15% reduction in procurement costs.
+      - Addressed purchasing and inventory planning inefficiencies by applying predictive analytics to demand forecasting, streamlining purchasing processes by 20% and improving supplier coordination.
+      - Identified repetitive procurement and buying activities suitable for automation and developed Python-based tools that delivered $35M in savings while improving purchasing workflow efficiency.
+      - Addressed gaps in supplier performance visibility by implementing vendor scorecards using Excel and Power BI, giving procurement stakeholders actionable data for supplier reviews and purchasing decisions.
+      - Reduced manual procurement administration by integrating procurement and supply chain information using Power Query and SharePoint, reducing manual effort by 30%.
+      - Consolidated procurement KPIs, supplier performance, and category-spend information into a Power BI dashboard, enabling leadership to make more informed purchasing and sourcing decisions.
+      - Improved SAP material master reliability by developing VBA automation for data validation and maintenance, increasing data consistency and reducing errors by 25%.
+      - Worked with supply chain stakeholders to identify procurement and inventory-system requirements and developed scalable solutions aligned with operational and purchasing objectives.
+      - Identified potential supply continuity risks through supplier and market analysis and developed alternative sourcing options to address procurement bottlenecks and delivery risks.
+      - Improved RFQ evaluation efficiency by introducing automated quote comparison tools, reducing purchasing cycle time by 40% and enabling faster supplier-selection decisions.
+      - Negotiated supplier commercial agreements to secure cost savings while ensuring purchasing decisions remained aligned with procurement policies and applicable requirements.
+      - Improved supplier KPI visibility by automating SLA adherence reporting, increasing transparency into vendor performance and reducing manual procurement administration.
+      - Identified repetitive purchasing activities and process bottlenecks and implemented automation solutions to improve procurement scalability and operational efficiency.
+      - Improved supplier engagement prioritization by applying predictive analytics to procurement data, accelerating delivery timelines by 15% through more targeted supplier follow-up.
+      - Automated supplier data validation and procurement tracking using Python scripts, improving purchasing workflow efficiency and data reliability.
+      - Improved procurement decision support by developing interactive Power BI dashboards that visualized purchasing metrics and supplier performance for procurement stakeholders.
+      - Reduced manual procurement documentation requirements by automating processes through Power Query and SharePoint, reducing manual effort and errors by 30%.
+      - Strengthened management visibility into procurement readiness by developing a Power BI dashboard covering procurement KPIs, supplier reliability, and inventory readiness.
+      - Addressed procurement data-quality issues by implementing automated Python validation routines, improving consistency across purchasing and supply chain data.
+      - Collaborated with cross-functional teams to develop scalable supplier-management and procurement-tracking tools aligned with broader supply chain objectives.
+      - Identified potential supplier and supply continuity issues through detailed supplier analysis and alternative sourcing assessments, resolving 95% of identified procurement issues.
+      - Served as the primary procurement contact for electrical controls, converters, cables, and equipment, managing purchase orders, supplier coordination, and logistics to support project requirements.
+      - Strengthened procurement governance by developing and enforcing purchasing policies and workflows, supporting documentation, staff training, and consistent process execution.
+      - Developed and maintained supplier networks for electrical controls, converters, cables, and equipment, supporting reliable sourcing through a specialized supplier database.
+      - Supported project financial administration by coordinating supplier invoices, payments, and expense tracking within project systems, maintaining purchasing and financial accuracy.
+      - Applied market intelligence, category analysis, and value analytics to sourcing decisions, identifying opportunities that generated 12% cost savings.
+      - Coordinated material shipments with clients and logistics teams to address delivery requirements, ensuring outgoing materials were tracked and delivered efficiently.
+      - Identified purchasing process inefficiencies through procurement and supply chain analysis and implemented improvements that reduced procurement costs by 10%.
+      - Partnered with project managers to establish purchasing requirements, budgets, bid strategies, and evaluation criteria, ensuring procurement decisions aligned with project cost and delivery objectives.
+      - Identified gaps in procurement controls and implemented Lean-based purchasing processes, improving workflow standardization, process control, and cost efficiency.
+      - Analyzed supplier costs and payment terms to identify commercial optimization opportunities, generating 3M EUR in identified savings through standardized procurement strategies and improved credit-period management.
+      - Addressed purchasing process inefficiencies by leading cross-functional improvement initiatives and applying Lean methodologies, improving purchasing efficiency by 15%.
+      - Identified procurement capacity constraints and implemented process improvements that increased supply chain capacity by 20%, enabling better allocation of purchasing resources.
+      - Automated repetitive procurement activities through cloud-based tools, increasing team productivity by 30% and accelerating purchasing task completion.
+      - Managed RFx activities across supply chain segments, evaluating global suppliers and negotiating competitive commercial terms that achieved an 8% reduction in procurement costs.
+      - Worked with procurement and supply chain stakeholders to translate operational requirements into purchasing plans, contributing to projects being delivered 10% faster.
+      - Identified manual purchasing activities suitable for automation and developed Python scripts that reduced manual procurement effort by 25%.
+      - Strengthened supplier communication and engagement by establishing structured vendor communication practices, improving vendor engagement by 12%.
+      - Improved procurement decision-making by developing Python and Power BI dashboards to monitor purchasing KPIs, increasing decision-making accuracy by 18%.
+      - Improved procurement workflow efficiency by integrating SAP ERP capabilities into purchasing processes, reducing manual effort by 30% and improving data accuracy.
+      - Supported ERP enhancements for procurement processes by identifying purchasing workflow requirements and collaborating on system improvements that reduced purchasing cycle time by 20%.
+      - Managed global supplier sourcing activities to meet supply requirements while maintaining 100% on-time delivery and adherence to quality standards.
+      - Coordinated with internal teams, vendors, and clients to clarify electrical equipment requirements, resolve purchasing issues, and maintain alignment throughout procurement activities.
+      - Partnered with engineering and fabrication teams to align electrical-component purchasing with project schedules, supporting timely material availability and project execution.
+      - Standardized procurement templates and purchasing tools through process-governance initiatives, improving compliance and accelerating cross-functional alignment by 20%.
+
+  - title: Procurement Analyst
+    company: Valeo India
+    dates: Jan 2015 - Dec 2017
+    achievements:
+      - Managed RFx activities across supply chain categories by coordinating supplier participation, evaluating commercial proposals, and supporting strategic sourcing decisions that achieved 10–15% cost reductions.
+      - Addressed supplier concentration and supply continuity risks by onboarding new vendors, implementing double-sourcing strategies, and supporting localization initiatives, improving supply chain efficiency by 20%.
+      - Managed competitive supplier auctions through digital platforms to improve commercial competitiveness, achieving 8–12% procurement cost reductions through bidding and negotiation.
+      - Identified supplier cost drivers through zero-based costing using advanced Excel, macros, pivot tables, and analytical techniques, enabling negotiations that delivered 15% procurement savings.
+      - Identified purchasing cost and sourcing opportunities by aligning procurement processes with best-cost supply chain practices, achieving a 10% reduction in procurement costs.
+      - Led more than 5 supplier auctions by coordinating competitive bidding among preferred suppliers, achieving average cost savings of 15%.
+      - Managed data-driven RFx events through digital sourcing platforms, analyzing supplier bids and commercial competitiveness to achieve 8–12% procurement cost reductions.
+      - Improved procurement performance visibility by developing interactive dashboards for purchasing KPIs and supplier performance, reducing reporting time by 40%.
+      - Supported supplier-selection and sourcing decisions through e-auctions and competitive sourcing strategies, improving commercial competitiveness across procurement categories.
+      - Conducted supplier and market cost benchmarking for supply chain components, identifying pricing outliers and providing analysis to support supplier negotiations and pricing strategies.
+      - Supported supplier financial-process improvements through implementation of RXIL TReDS, helping streamline invoice discounting and improve supplier liquidity.
+      - Analyzed Linear Pricing Patterns across key materials to identify cost anomalies and support standardized supplier pricing frameworks.
+      - Identified supplier compliance and supply continuity risks through third-party risk assessments and incorporated findings into category strategies and supplier-management decisions.
+  - title: Junior Engineer
+    company: Precirec Engineers
+    dates: Mar 2017 - Jun 2019
+    achievements:
+      - Led new product development for industrial machinery, including Automatic Induction Hardening and Wet End equipment, from conceptualization and feasibility through cost analysis, design validation, process development, implementation support, and final product approval.
+      - Coordinated production activities and led frontline team members to meet daily operational priorities while maintaining product quality, process requirements, and safety standards.
+      - Conducted design and manufacturing feasibility reviews with customers and internal stakeholders, identifying required modifications and coordinating implementation through production.
+      - Supported equipment and process troubleshooting by evaluating manufacturing issues, coordinating corrective actions, and implementing process improvements to improve operational performance.
+      - Managed vendor master creation, equipment-related information, supplier records, and operational documentation to maintain accurate and reliable production records.
+      - Performed maintenance and retrofitting of electric motors, including conversion of electromagnetic braking systems for cranes and escalators to improve equipment reliability and operational performance.
+      - Installed, maintained, and troubleshot centralized lubrication systems to ensure proper lubrication, reduce equipment wear, and support reliable machine operation.
+      - Coordinated production activities and frontline team members to meet daily operational priorities while maintaining product quality, process requirements, and safety standards.
+      - Led industrial equipment development from feasibility and cost analysis through design validation, production implementation, and final product approval, coordinating requirements across customers, vendors, Engineering, and production teams.
+      - Supported equipment troubleshooting, maintenance, retrofitting, and corrective actions to improve machine reliability and maintain operational continuity.
+
 projects:
   - project_name: Procurement Analytics Dashboard
-    description: Developed a Power BI dashboard to track procurement KPIs, supplier performance, and category spend, providing actionable insights for informed purchasing decisions.
+    description: Developed a Power BI dashboard to address limited visibility into procurement KPIs, supplier performance, and category spend, consolidating purchasing information into actionable insights for sourcing and supplier-management decisions.
     keywords:
       - Power BI
       - Procurement
-      - Supply Chain
+      - Supplier Performance
+      - Category Spend
       - KPIs
 
   - project_name: Supplier Cost Optimization
-    description: Analyzed supplier costs and payment terms using Python, identifying savings of 3M EUR through standardized procurement strategies and competitive sourcing.
+    description: Analyzed supplier cost structures and payment terms using Python to identify commercial optimization opportunities and support standardized procurement strategies and competitive sourcing that identified 3M EUR in savings.
     keywords:
       - Python
       - Procurement
+      - Cost Analysis
       - Cost Optimization
-      - Supply Chain
+      - Supplier Management
 
   - project_name: SAP Procurement Automation
-    description: Built automation solutions using Excel VBA and SAP to streamline procurement data management, enhancing operational efficiency and data accuracy in supply chain processes.
+    description: Identified manual procurement data-management activities and developed Excel VBA and SAP automation solutions to improve purchasing data accuracy, reduce repetitive work, and strengthen procurement process efficiency.
     keywords:
       - SAP
       - Excel VBA
       - Procurement
       - Data Automation
+      - ERP
 
   - project_name: Supply Chain Risk Mitigation
-    description: Developed a Python-based tool to analyze supply chain data and identify alternative sourcing options, mitigating procurement risks and ensuring delivery reliability.
+    description: Analyzed supplier and supply chain data using Python to identify potential supply continuity risks and alternative sourcing options, supporting proactive supplier-risk management and delivery reliability.
     keywords:
       - Python
       - Supply Chain
+      - Supplier Risk
       - Risk Mitigation
       - Procurement
 
   - project_name: RFx Process Automation
-    description: Created Python scripts to automate RFx processes, reducing purchasing cycle times by 40% and improving efficiency in supplier selection and procurement.
+    description: Identified inefficiencies in RFx evaluation and developed Python automation to streamline supplier bid analysis and comparison, reducing purchasing cycle times by 40% and supporting faster sourcing decisions.
     keywords:
       - Python
       - RFx
       - Procurement
+      - Supplier Selection
       - Automation
 
   - project_name: Supplier Performance Dashboard
-    description: Built a Tableau dashboard to visualize supplier performance metrics and procurement KPIs, enabling faster decision-making and reducing reporting time by 40%.
+    description: Addressed limited supplier-performance visibility by developing a Tableau dashboard to track supplier KPIs and procurement metrics, enabling faster supplier-management decisions and reducing reporting time by 40%.
     keywords:
       - Tableau
       - Procurement
+      - Supplier Performance
       - Supply Chain
       - Data Visualization
 
   - project_name: Global Sourcing Strategy
-    description: Developed a data-driven sourcing strategy using market analysis and cost benchmarking, achieving 10–15% cost reductions in procurement across global supply chains.
+    description: Conducted market analysis and supplier cost benchmarking to identify global sourcing opportunities and develop a data-driven sourcing strategy that achieved 10–15% procurement cost reductions.
     keywords:
       - Procurement
       - Supply Chain
       - Cost Benchmarking
       - Global Sourcing
+      - Strategic Sourcing
 
   - project_name: E-Auction Platform
-    description: Implemented an e-auction platform for supplier bidding, reducing procurement costs by 8–12% through competitive sourcing and strategic negotiations.
+    description: Identified opportunities to increase supplier competition and implemented an e-auction approach to support competitive bidding and supplier negotiations, reducing procurement costs by 8–12%.
     keywords:
       - E-Auction
       - Procurement
+      - Supplier Negotiation
       - Supply Chain
       - Cost Reduction
 
   - project_name: Inventory Forecasting Model
-    description: Built machine learning models to forecast inventory needs, optimizing procurement and supply chain operations for improved efficiency and cost savings.
+    description: Addressed inventory-planning challenges by developing machine learning models to forecast material requirements, supporting purchasing decisions and more efficient procurement and supply chain planning.
     keywords:
       - Machine Learning
       - Procurement
       - Supply Chain
-      - Forecasting
+      - Demand Forecasting
+      - Inventory Planning
 
   - project_name: Supplier Relationship Management Tool
-    description: Developed a Python-based tool to streamline supplier communication and performance tracking, improving vendor engagement in procurement by 12%.
+    description: Identified gaps in supplier communication and performance tracking and developed a Python-based tool to centralize supplier interactions and performance information, improving vendor engagement by 12%.
     keywords:
       - Python
       - Procurement
-      - Supply Chain
       - Supplier Management
+      - Supplier Performance
+      - Supply Chain
+
   - project_name: Supply Chain Risk Mitigation
-    description: Developed a Python-based tool to analyze supply chain data and identify alternative sourcing options, mitigating procurement risks and ensuring delivery reliability while keeping up to date with suppliers.
-    keywords: [Python, Supply Chain, Risk Mitigation, Procurement]
+    description: Analyzed supplier and supply chain data using Python to identify alternative sourcing options and support proactive supplier-risk management, improving visibility into potential supply continuity issues.
+    keywords:
+      - Python
+      - Supply Chain
+      - Supplier Risk
+      - Risk Mitigation
+      - Procurement
 
   - project_name: RFx Automation for Electrical Systems
-    description: Automated supplier bid comparison using Python, reducing electrical quotation analysis time by 40% and enabling faster decision-making in tender evaluations.
+    description: Addressed manual electrical quotation evaluation by developing Python-based supplier bid-comparison automation, reducing quotation analysis time by 40% and enabling faster tender evaluation and sourcing decisions.
     keywords:
       - Python
       - RFx
       - Electrical Procurement
+      - Supplier Evaluation
       - Automation
 
   - project_name: Subcontractor Performance Management
-    description: Developed a Power BI and SharePoint-based system to track subcontractor performance metrics, safety compliance, and capacity utilization across projects nationwide.
+    description: Addressed fragmented subcontractor performance visibility by developing a Power BI and SharePoint-based system to track performance, safety compliance, and capacity utilization across projects nationwide.
     keywords:
       - Power BI
       - Supplier Management
       - SharePoint
       - Subcontractor Evaluation
+      - Performance Management
 
   - project_name: Global Sourcing Strategy for Controls & Automation
-    description: Formulated data-driven sourcing strategies for electrical and control equipment, achieving 10–15% cost savings through supplier consolidation and benchmarking.
+    description: Analyzed supplier capabilities, market conditions, and cost benchmarks to formulate data-driven sourcing strategies for electrical and control equipment, achieving 10–15% cost savings through supplier consolidation and benchmarking.
     keywords:
       - Electrical Procurement
       - Global Sourcing
       - Cost Benchmarking
       - Supplier Strategy
+      - Strategic Sourcing
+
   - project_name: Home Lab Infrastructure & Server Management
-    description: Architected a multi-service home server environment using Linux Mint and Cockpit to master server administration, implementing Immich for automated media backup and Joplin for centralized knowledge management. Established remote monitoring protocols to ensure 24/7 uptime and efficient resource allocation.
+    description: Architected a multi-service home server environment using Linux Mint and Cockpit to develop practical server-administration capabilities, implementing Immich for automated media backup and Joplin for centralized knowledge management while establishing remote monitoring protocols for 24/7 uptime.
     keywords:
       - Linux Mint
       - Cockpit
@@ -208,7 +240,7 @@ projects:
       - Server Management
 
   - project_name: AI-Powered Resume Optimization Tool
-    description: Developed a Python-based automation tool designed to tailor professional resumes by matching candidate profiles with specific job descriptions. Optimized the tool to highlight key competencies and technical skills, streamlining the application process and improving recruitment visibility.
+    description: Developed a Python-based automation tool to analyze professional resumes against job descriptions, matching competencies and technical skills to streamline resume customization and improve recruitment visibility.
     keywords:
       - Python
       - Web Automation
@@ -216,44 +248,46 @@ projects:
       - Resume Engineering
 
   - project_name: Advanced RAG & Semantic Search Engine
-    description: Engineered a Retrieval-Augmented Generation (RAG) system utilizing semantic search to extract and synthesize information from large, unstructured datasets. Implemented vector embeddings to improve contextual accuracy, enabling more precise and relevant information retrieval than keyword-based methods.
+    description: Engineered a Retrieval-Augmented Generation system using semantic search and vector embeddings to retrieve and synthesize information from large unstructured datasets, improving contextual information retrieval.
     keywords:
       - Python
       - LangChain
       - Vector Databases
       - Semantic Search
       - LLMs
+
   - project_name: Strategic Category Sourcing Initiative
-    description: "Developed a data-driven sourcing strategy using market analysis and\
-      \ cost benchmarking to identify cost-saving opportunities, achieving 10\u2013\
-      15% cost reductions across global supply chains while ensuring alignment with\
-      \ organizational goals."
+    description: Analyzed market conditions and supplier cost benchmarks to identify category-level sourcing opportunities and developed a data-driven sourcing strategy that achieved 10–15% cost reductions across global supply chains while aligning purchasing decisions with organizational objectives.
     keywords:
-    - Strategic Sourcing
-    - Market Analysis
-    - Cost Benchmarking
-    - Supply Chain
+      - Strategic Sourcing
+      - Market Analysis
+      - Cost Benchmarking
+      - Supply Chain
+      - Category Management
+
   - project_name: Supplier Cost Optimization
-    description: Analyzed supplier costs and payment terms to identify significant savings
-      through standardized procurement strategies and competitive sourcing, ensuring
-      favorable terms and organizational cost-efficiency.
+    description: Analyzed supplier cost structures and payment terms to identify commercial savings opportunities, supporting standardized procurement strategies, supplier negotiations, and improved organizational cost efficiency.
     keywords:
-    - Cost Optimization
-    - Procurement
-    - Negotiation
-    - Supplier Relationship Management
+      - Cost Optimization
+      - Procurement
+      - Negotiation
+      - Supplier Relationship Management
+      - Commercial Analysis
 
   - project_name: Procurement Process Improvement Initiative
-    description: Led procurement process improvements by standardizing RFx documentation, supplier evaluation criteria, and procurement reporting workflows to improve sourcing efficiency and governance.
+    description: Identified inconsistencies in sourcing and procurement workflows and led process improvements by standardizing RFx documentation, supplier evaluation criteria, and procurement reporting, strengthening sourcing efficiency and procurement governance.
     keywords:
-    - RFx
-    - Supplier Optimization
-    - Supplier Selection
-    - Process Improvement
+      - RFx
+      - Supplier Optimization
+      - Supplier Selection
+      - Process Improvement
+      - Procurement Governance
+
   - project_name: Supplier Performance & Governance Program
-    description: Designed supplier scorecards and procurement dashboards that monitored delivery, quality, spend, and lead-time KPIs, supporting supplier development initiatives and strategic sourcing decisions.
+    description: Addressed gaps in supplier-performance governance by designing supplier scorecards and procurement dashboards covering delivery, quality, spend, and lead-time KPIs, supporting supplier development and strategic sourcing decisions.
     keywords:
-    - Supplier Tracking
-    - Vendor Management
-    - KPIs
-    - Process Optimization
+      - Supplier Tracking
+      - Vendor Management
+      - Supplier Performance
+      - KPIs
+      - Process Optimization
