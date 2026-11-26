@@ -1,148 +1,256 @@
-summary: >-
-  Strategic Procurement and Sourcing professional with 7+ years of experience supporting sourcing, supplier management, RFQs, pricing analysis, commercial negotiations, spend analysis, inventory planning, and supply continuity across global manufacturing environments. Experienced in identifying and evaluating suppliers, preparing quotation comparisons, analyzing pricing and cost drivers, supporting negotiations, monitoring supplier performance, and coordinating logistics and delivery requirements. Advanced proficiency in Microsoft Excel, Power BI, SQL, SAP, and ERP systems for spend analysis, supplier reporting, pricing analysis, forecasting, and procurement decision support. Strong cross-functional partner to Procurement, Operations, Finance, Engineering, Supply Chain, Logistics, and suppliers, with a proven record of process improvement, cost optimization, and supplier risk mitigation.
-
+summary: Strategic Procurement and Sourcing professional with 7+ years of experience
+  supporting sourcing, supplier management, RFQs, pricing analysis, commercial negotiations,
+  spend analysis, inventory planning, and supply continuity across global manufacturing
+  environments. Experienced in identifying and evaluating suppliers, preparing quotation
+  comparisons, analyzing pricing and cost drivers, supporting negotiations, monitoring
+  supplier performance, and coordinating logistics and delivery requirements. Advanced
+  proficiency in Microsoft Excel, Power BI, SQL, SAP, and ERP systems for spend analysis,
+  supplier reporting, pricing analysis, forecasting, and procurement decision support.
+  Strong cross-functional partner to Procurement, Operations, Finance, Engineering,
+  Supply Chain, Logistics, and suppliers, with a proven record of process improvement,
+  cost optimization, and supplier risk mitigation.
 skills:
-  - name: Sourcing & Procurement
-    keywords:
-      - Strategic Sourcing
-      - Sourcing Strategy
-      - Supplier Identification
-      - Supplier Qualification
-      - Supplier Development
-      - RFQ / RFP / RFx
-      - Competitive Bidding
-      - Quotation Analysis
-      - Pricing Comparisons
-      - Supplier Selection
-      - Spend Analysis
-
-  - name: Supplier & Commercial Management
-    keywords:
-      - Supplier Relationship Management
-      - Supplier Performance Management
-      - Supplier Negotiations
-      - Commercial Negotiations
-      - Supplier Pricing
-      - Payment Terms
-      - Lead-Time Management
-      - Supplier Agreements
-      - Supplier Onboarding
-      - Supplier Risk Management
-      - Supplier Due Diligence
-
-  - name: Cost & Market Analysis
-    keywords:
-      - Cost Analysis
-      - Cost Benchmarking
-      - Pricing Analysis
-      - Market Analysis
-      - Cost Drivers
-      - Cost Reduction
-      - Cost Avoidance
-      - Spend Analytics
-      - Total Cost Analysis
-      - Commercial Analysis
-
-  - name: Supply Chain & Logistics
-    keywords:
-      - Supply Continuity
-      - Inventory Planning
-      - Demand Planning
-      - Material Planning
-      - Logistics Coordination
-      - Transportation Coordination
-      - Delivery Scheduling
-      - Supply Risk Management
-      - Supplier Performance
-      - Purchase Orders
-
-  - name: Procurement Analytics & Reporting
-    keywords:
-      - Microsoft Excel
-      - Power BI
-      - PowerPoint
-      - SQL
-      - SAP
-      - Sage ERP
-      - Power Query
-      - Procurement Reporting
-      - KPI Reporting
-      - Spend Reporting
-      - Data Analysis
-
-  - name: Business & Process Improvement
-    keywords:
-      - Cross-Functional Collaboration
-      - Stakeholder Management
-      - Continuous Improvement
-      - Process Standardization
-      - Procurement Governance
-      - Requirements Analysis
-      - Commercial Decision Support
-      - Supplier Documentation
-      - Data Quality
-      - Microsoft Office
-
+- name: Sourcing & Procurement
+  keywords:
+  - Strategic Sourcing
+  - Sourcing Strategy
+  - Supplier Identification
+  - Supplier Qualification
+  - Supplier Development
+  - RFQ / RFP / RFx
+  - Competitive Bidding
+  - Quotation Analysis
+  - Pricing Comparisons
+  - Supplier Selection
+  - Spend Analysis
+- name: Supplier & Commercial Management
+  keywords:
+  - Supplier Relationship Management
+  - Supplier Performance Management
+  - Supplier Negotiations
+  - Commercial Negotiations
+  - Supplier Pricing
+  - Payment Terms
+  - Lead-Time Management
+  - Supplier Agreements
+  - Supplier Onboarding
+  - Supplier Risk Management
+  - Supplier Due Diligence
+- name: Cost & Market Analysis
+  keywords:
+  - Cost Analysis
+  - Cost Benchmarking
+  - Pricing Analysis
+  - Market Analysis
+  - Cost Drivers
+  - Cost Reduction
+  - Cost Avoidance
+  - Spend Analytics
+  - Total Cost Analysis
+  - Commercial Analysis
+- name: Supply Chain & Logistics
+  keywords:
+  - Supply Continuity
+  - Inventory Planning
+  - Demand Planning
+  - Material Planning
+  - Logistics Coordination
+  - Transportation Coordination
+  - Delivery Scheduling
+  - Supply Risk Management
+  - Supplier Performance
+  - Purchase Orders
+- name: Procurement Analytics & Reporting
+  keywords:
+  - Microsoft Excel
+  - Power BI
+  - PowerPoint
+  - SQL
+  - SAP
+  - Sage ERP
+  - Power Query
+  - Procurement Reporting
+  - KPI Reporting
+  - Spend Reporting
+  - Data Analysis
+- name: Business & Process Improvement
+  keywords:
+  - Cross-Functional Collaboration
+  - Stakeholder Management
+  - Continuous Improvement
+  - Process Standardization
+  - Procurement Governance
+  - Requirements Analysis
+  - Commercial Decision Support
+  - Supplier Documentation
+  - Data Quality
+  - Microsoft Office
 work_experience:
+- title: Procurement Buyer
+  company: Decibel Cannabis Company
+  dates: Dec 2025 - Present
+  achievements:
   - title: Procurement Buyer
     company: Decibel Cannabis Company
-    dates: Dec 2025 - Present
     achievements:
-      - Identified fragmented supplier and category-spend visibility across procurement operations and developed SQL-based analytics and Power BI dashboards to consolidate purchasing, supplier, and inventory data, reducing manual reporting time by 50% and strengthening data-driven sourcing decisions.
-      - Optimized purchasing strategies by analyzing production requirements, supplier lead times, demand forecasts, and inventory positions, reducing excess inventory by 20% while supporting 98% production uptime.
-      - Strengthened supplier performance and commercial accountability through proactive vendor engagement, delivery monitoring, and supplier relationship management, improving on-time deliveries by 30% and achieving a 98% overall delivery rate.
-      - Led cross-functional procurement improvement initiatives by standardizing Procure-to-Pay workflows, supplier master data governance, and performance reporting, maintaining 99%+ Sage ERP data accuracy and improving procurement visibility and operational compliance.
-
+    - Led strategic sourcing initiatives to reduce supply concentration risk and procurement
+      costs by diversifying the supplier base, strengthening supply continuity for
+      critical materials.
+    - Managed the end-to-end Procure-to-Pay lifecycle, coordinating PO creation, supplier
+      follow-up, and invoice reconciliation to achieve a 98% on-time delivery rate.
+    - Addressed stockout risks associated with global suppliers by re-engineering
+      purchase planning around production requirements, supporting 98% production
+      uptime.
+    - Balanced production requirements with inventory objectives by synchronizing
+      the PO lifecycle with manufacturing demand, reducing excess inventory by 20%.
+    - Addressed supplier delivery reliability issues through proactive vendor engagement,
+      resulting in a 30% improvement in on-time deliveries.
+    - Improved procurement data reliability by maintaining 99%+ accuracy within Sage
+      ERP, providing leadership with a consistent source of truth for supply chain
+      decisions.
+    - Identified spend anomalies and supplier pricing inconsistencies through transaction
+      analysis, strengthening financial controls and reducing investigation time by
+      50%.
   - title: Procurement Engineer
     company: Vestas Wind Technology
-    dates: Jan 2021 - Aug 2023
     achievements:
-      - Developed and executed strategic sourcing initiatives for technical and engineered components, including electrical controls, converters, switches, cables, and equipment, leveraging global supplier networks, market intelligence, and cost benchmarking to achieve procurement cost reductions of 15%.
-      - Led end-to-end strategic sourcing and RFx activities, including supplier identification, quotation analysis, commercial evaluation, negotiations, and supplier selection; implemented automated bid-comparison solutions that reduced purchasing cycle time by 40% and supported competitive sourcing decisions.
-      - Identified category-level cost optimization and working-capital opportunities through supplier cost analysis, payment-term negotiations, and commercial benchmarking, identifying €3M in potential savings through standardized procurement strategies and improved credit-period management.
-      - Partnered with engineering, project management, finance, and supply chain stakeholders to align sourcing strategies, technical specifications, procurement budgets, and delivery schedules; strengthened supplier performance governance through KPI scorecards, Power BI reporting, and process automation, improving procurement efficiency by 15%.
-
+    - Managed RFx activities across supply chain segments, evaluating global suppliers
+      and negotiating competitive commercial terms that achieved an 8% reduction in
+      procurement costs.
+    - Identified supplier cost optimization opportunities through data-driven evaluation
+      and detailed cost analysis, achieving a 15% reduction in procurement costs.
+    - Negotiated supplier commercial agreements to secure cost savings while ensuring
+      purchasing decisions remained aligned with procurement policies and applicable
+      requirements.
+    - Addressed gaps in supplier performance visibility by implementing vendor scorecards
+      using Excel and Power BI, giving stakeholders actionable data for supplier reviews.
+    - Identified potential supply continuity risks through supplier and market analysis
+      and developed alternative sourcing options to address procurement bottlenecks.
+    - Improved RFQ evaluation efficiency by introducing automated quote comparison
+      tools, reducing purchasing cycle time by 40% and enabling faster supplier-selection
+      decisions.
+    - Served as the primary procurement contact for electrical controls and equipment,
+      managing purchase orders, supplier coordination, and logistics to support project
+      requirements.
   - title: Procurement Analyst
     company: Valeo India
-    dates: Jun 2019 - Jan 2021
     achievements:
-      - Managed strategic sourcing and competitive RFx activities across manufacturing supply categories, coordinating supplier identification, commercial evaluations, e-auctions, and negotiations to achieve 10–15% procurement cost reductions.
-      - Conducted detailed spend analysis, supplier benchmarking, and zero-based costing using advanced Excel, macros, and analytical tools to identify cost drivers, challenge supplier pricing, and deliver procurement savings of up to 15%.
-      - Mitigated supplier concentration and supply continuity risks by onboarding alternative suppliers, implementing dual-sourcing strategies, and supporting localization initiatives, improving supply chain efficiency by 20%.
-      - Strengthened category and supplier performance visibility through procurement KPI dashboards, market intelligence, third-party risk assessments, and digital sourcing platforms, reducing reporting time by 40% and supporting informed supplier-selection and sourcing decisions.
-
+    - "Managed RFx activities across supply chain categories by coordinating supplier\
+      \ participation and evaluating commercial proposals, achieving 10\u201315% cost\
+      \ reductions."
+    - "Managed competitive supplier auctions through digital platforms to improve\
+      \ commercial competitiveness, achieving 8\u201312% procurement cost reductions\
+      \ through bidding and negotiation."
+    - Addressed supplier concentration and supply continuity risks by onboarding new
+      vendors and implementing double-sourcing strategies, improving supply chain
+      efficiency by 20%.
+    - Identified supplier cost drivers through zero-based costing using advanced Excel
+      and analytical techniques, enabling negotiations that delivered 15% procurement
+      savings.
+    - Conducted supplier and market cost benchmarking for supply chain components,
+      identifying pricing outliers to support supplier negotiations and pricing strategies.
+    - Led more than 5 supplier auctions by coordinating competitive bidding among
+      preferred suppliers, achieving average cost savings of 15%.
+    - Identified supplier compliance and supply continuity risks through third-party
+      risk assessments and incorporated findings into category strategies.
   - title: Junior Engineer
     company: Precirec Engineers
-    dates: Mar 2017 - Jun 2019
     achievements:
-      - Led industrial equipment development initiatives, including Automatic Induction Hardening and Wet End equipment, coordinating feasibility assessments, cost analysis, technical specifications, design validation, and production implementation across engineering, customers, and vendors.
-      - Coordinated engineering, production, and supplier requirements to resolve technical and manufacturing challenges, implement corrective actions, and maintain alignment with operational priorities, quality requirements, and project schedules.
-      - Supported CapEx-related equipment and machinery requirements through vendor coordination, equipment evaluation, maintenance, retrofitting, and technical documentation, improving equipment reliability and operational continuity.
-
+    - Led new product development for industrial machinery from conceptualization
+      through cost analysis and design validation, supporting final product approval.
+    - Conducted design and manufacturing feasibility reviews with customers and internal
+      stakeholders, identifying required modifications and coordinating implementation.
+    - Managed vendor master creation, equipment-related information, and supplier
+      records to maintain accurate and reliable production records.
+    - Coordinated production activities and led frontline team members to meet daily
+      operational priorities while maintaining product quality and safety standards.
+    - Supported equipment and process troubleshooting by evaluating manufacturing
+      issues and implementing process improvements to improve operational performance.
+    - Performed maintenance and retrofitting of electric motors, including conversion
+      of electromagnetic braking systems to improve equipment reliability.
+    - Installed, maintained, and troubleshot centralized lubrication systems to ensure
+      proper lubrication and support reliable machine operation.
+- title: Procurement Engineer
+  company: Vestas Wind Technology
+  dates: Jan 2021 - Aug 2023
+  achievements:
+  - Developed and executed strategic sourcing initiatives for technical and engineered
+    components, including electrical controls, converters, switches, cables, and equipment,
+    leveraging global supplier networks, market intelligence, and cost benchmarking
+    to achieve procurement cost reductions of 15%.
+  - Led end-to-end strategic sourcing and RFx activities, including supplier identification,
+    quotation analysis, commercial evaluation, negotiations, and supplier selection;
+    implemented automated bid-comparison solutions that reduced purchasing cycle time
+    by 40% and supported competitive sourcing decisions.
+  - "Identified category-level cost optimization and working-capital opportunities\
+    \ through supplier cost analysis, payment-term negotiations, and commercial benchmarking,\
+    \ identifying \u20AC3M in potential savings through standardized procurement strategies\
+    \ and improved credit-period management."
+  - Partnered with engineering, project management, finance, and supply chain stakeholders
+    to align sourcing strategies, technical specifications, procurement budgets, and
+    delivery schedules; strengthened supplier performance governance through KPI scorecards,
+    Power BI reporting, and process automation, improving procurement efficiency by
+    15%.
+- title: Procurement Analyst
+  company: Valeo India
+  dates: Jun 2019 - Jan 2021
+  achievements:
+  - "Managed strategic sourcing and competitive RFx activities across manufacturing\
+    \ supply categories, coordinating supplier identification, commercial evaluations,\
+    \ e-auctions, and negotiations to achieve 10\u201315% procurement cost reductions."
+  - Conducted detailed spend analysis, supplier benchmarking, and zero-based costing
+    using advanced Excel, macros, and analytical tools to identify cost drivers, challenge
+    supplier pricing, and deliver procurement savings of up to 15%.
+  - Mitigated supplier concentration and supply continuity risks by onboarding alternative
+    suppliers, implementing dual-sourcing strategies, and supporting localization
+    initiatives, improving supply chain efficiency by 20%.
+  - Strengthened category and supplier performance visibility through procurement
+    KPI dashboards, market intelligence, third-party risk assessments, and digital
+    sourcing platforms, reducing reporting time by 40% and supporting informed supplier-selection
+    and sourcing decisions.
+- title: Junior Engineer
+  company: Precirec Engineers
+  dates: Mar 2017 - Jun 2019
+  achievements:
+  - Led industrial equipment development initiatives, including Automatic Induction
+    Hardening and Wet End equipment, coordinating feasibility assessments, cost analysis,
+    technical specifications, design validation, and production implementation across
+    engineering, customers, and vendors.
+  - Coordinated engineering, production, and supplier requirements to resolve technical
+    and manufacturing challenges, implement corrective actions, and maintain alignment
+    with operational priorities, quality requirements, and project schedules.
+  - Supported CapEx-related equipment and machinery requirements through vendor coordination,
+    equipment evaluation, maintenance, retrofitting, and technical documentation,
+    improving equipment reliability and operational continuity.
 projects:
-  - project_name: Procurement Analytics & Sourcing Dashboard
-    description: Consolidated supplier performance, purchasing activity, spend, pricing, and procurement KPI data into a Power BI dashboard to support supplier reviews, sourcing decisions, spend analysis, and commercial performance management.
-    keywords:
-      - Power BI
-      - Spend Analysis
-      - Supplier Performance
-      - Pricing Analysis
-      - Procurement KPIs
-
-  - project_name: Procurement Process Improvement Initiative
-    description: Standardized RFx documentation, supplier evaluation criteria, quotation analysis, and procurement reporting to improve sourcing consistency, supplier-selection decisions, procurement governance, and stakeholder alignment.
-    keywords:
-      - RFx
-      - Quotation Analysis
-      - Supplier Selection
-      - Process Improvement
-      - Procurement Governance
-
-  - project_name: Global Sourcing Strategy
-    description: Conducted supplier-market analysis, cost benchmarking, pricing analysis, and supplier evaluation to identify competitive global sourcing opportunities and develop data-driven sourcing strategies that achieved 10–15% procurement cost reductions.
-    keywords:
-      - Strategic Sourcing
-      - Supplier Evaluation
-      - Market Analysis
-      - Cost Benchmarking
-      - Pricing Analysis
+- project_name: Procurement Analytics & Sourcing Dashboard
+  description: Consolidated supplier performance, purchasing activity, spend, pricing,
+    and procurement KPI data into a Power BI dashboard to support supplier reviews,
+    sourcing decisions, spend analysis, and commercial performance management.
+  keywords:
+  - Power BI
+  - Spend Analysis
+  - Supplier Performance
+  - Pricing Analysis
+  - Procurement KPIs
+- project_name: Procurement Process Improvement Initiative
+  description: Standardized RFx documentation, supplier evaluation criteria, quotation
+    analysis, and procurement reporting to improve sourcing consistency, supplier-selection
+    decisions, procurement governance, and stakeholder alignment.
+  keywords:
+  - RFx
+  - Quotation Analysis
+  - Supplier Selection
+  - Process Improvement
+  - Procurement Governance
+- project_name: Global Sourcing Strategy
+  description: "Conducted supplier-market analysis, cost benchmarking, pricing analysis,\
+    \ and supplier evaluation to identify competitive global sourcing opportunities\
+    \ and develop data-driven sourcing strategies that achieved 10\u201315% procurement\
+    \ cost reductions."
+  keywords:
+  - Strategic Sourcing
+  - Supplier Evaluation
+  - Market Analysis
+  - Cost Benchmarking
+  - Pricing Analysis
