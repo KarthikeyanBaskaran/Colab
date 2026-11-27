@@ -252,6 +252,28 @@ def build_pdf(data, output_file="resume.pdf"):
         writer.write(f)
     print(f"✅ Resume generated: {output_file}")
 
+import argparse
+from pathlib import Path
+
 if __name__ == "__main__":
-    content = load_content("output.yaml")
-    build_pdf(content, "Karthikeyan_Baskaran_Resume.pdf")
+    parser = argparse.ArgumentParser(description="Build resume PDF from a YAML file.")
+    parser.add_argument(
+        "yaml_file",
+        nargs="?",
+        default="output.yaml",
+        help="Path to the input YAML file (default: output.yaml)",
+    )
+    parser.add_argument(
+        "-o",
+        "--output",
+        default="Karthikeyan_Baskaran_Resume.pdf",
+        help="Output PDF path (default: Karthikeyan_Baskaran_Resume.pdf)",
+    )
+
+    args = parser.parse_args()
+    content = load_content(args.yaml_file)
+    build_pdf(content, args.output)
+
+# if __name__ == "__main__":
+#     content = load_content("output.yaml")
+#     build_pdf(content, "Karthikeyan_Baskaran_Resume.pdf")
